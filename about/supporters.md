@@ -6,7 +6,7 @@ layout: multisection
 
 <h1>{{page.title}}</h1>
 
-OWASP AppSec  would like to thank the following supporters for helping to spread the word about our conference x<sub>th</sub> - x<sub>th</sub> of June, 2019.
+OWASP AppSec  would like to thank the following supporters for helping to spread the word about our conference 26<sub>th</sub> - 30<sub>th</sub> of May, 2019.
  
 <a href="contact">Let us know</a> if you would like to become a supporter of AppSec Tel Aviv. There are no finances required to be a supporter, essentially the arrangement is:
 <ul>
