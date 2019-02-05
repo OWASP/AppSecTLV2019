@@ -1,24 +1,26 @@
+.front header .logo {
+	height: 15em;
+}
+
 header {
 	position: relative;
-	.top {
+	.logo {
+		position: absolute;
+		top: -2em; left: 2em;
+		width: 20em;
 		height: 10em;
-		.logo {
-			position: absolute;
-			top: 0; left: 1em;
-			width: 20em;
-			height: 10em;
-			background: url(../images/logo.svg) 120% 45% no-repeat;
-			background-size: auto 150%;
-		}
+		background: url(../images/logo-tlv-white.png) top left no-repeat;
+		background-size: contain;
 	}
 
 	nav {
-		background: rgba(4,11,13,0.5);
 		display: flex;
 		justify-content: right;
 		padding: 0.75em;
+		margin-right: 2em;
+		margin-top: 4em;
 		height: 2.5em;
-		margin-bottom: -2.5em;
+		margin-bottom: -6.5em;
 		position: relative;
 		z-index: 5;
 		font-size: 87.5%;

@@ -17,7 +17,12 @@ section.front {
 
 section {
 	padding: 0em 4em 2em 4em;
+	line-height: 1.5em;
  	
+	&:first-of-type, &.img:first-of-type, &.front.img:first-of-type, &.front:first-of-type {
+		padding-top: 15em;
+	}
+
  	&.inverse {
 		background-color: $medium;
 		color: #fff;
@@ -33,7 +38,7 @@ section {
 		}
 	}
 	&.inverse+section, &.img+section { padding-top: 1em; }
-
+	&.img+section.map { padding-top: 0em; }
 	&:first-of-type {
 		border-top: 2.3em solid $medium;
 		&.inverse {

@@ -1,7 +1,6 @@
 ---
 title: Keynotes
 ---
-## {{page.title}}
 
 <div class="keynote-full">
 	
