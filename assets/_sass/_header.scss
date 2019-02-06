@@ -5,12 +5,14 @@
 header {
 	position: relative;
 	.logo {
-		position: absolute;
-		top: -2em; left: 2em;
+		position: relative;
+		top: -2em; left: 2.75em;
 		width: 20em;
 		height: 10em;
 		background: url(../images/logo-tlv-white.png) top left no-repeat;
 		background-size: contain;
+		display: block;
+		z-index: 2;
 	}
 
 	nav {
@@ -104,19 +106,17 @@ header {
 
 @media (max-width: 500px) {
 	header {
-		.top {
+		.logo {
+			width: 10em;
 			height: 5em;
-			.logo {
-				width: 10em;
-				height: 5em;				
-			}
+			top: 1em;
+			left: 0.5em;
 		}
 		nav {
 			font-size: 100%;
 			padding: 0;
 			height: auto;
 			margin: 0;
-			background: $dark;
 			padding: 0.5em 0em;
 
 			.burger {

@@ -32,30 +32,33 @@
   
 </head>
 <body class="{{bodyclass}}">
-<header>
-  <nav>
-    <a href="#" class="burger dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">☰</a>
-    <ul class="nav navbar-nav">
-    {% for menu in site.data.menus %}
-      {% if menu.items %}
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
-            <ul class="dropdown-menu">
-            {% for item in menu.items %}
-                <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
-            {% endfor %}
-            </ul>
-        </li>
-      {% else %}
-        <li>
-          <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-  </nav>
-  <a href="{{baseUrl}}" class="logo">
-  </a>
+<div class="main {{page.additionalclass}}">
+  <section class="img" style="background-image: {{site.multiply}}, url(/assets/images/{% if page.image %}{{page.image}}{% else %}tlv-city-small.jpg{% endif %});background-position: center center, {% if page.imageposition %}{{page.imageposition}}{% else %}center center{% endif %}">
+  <header>
+    <nav>
+      <a href="#" class="burger dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">☰</a>
+      <ul class="nav navbar-nav">
+      {% for menu in site.data.menus %}
+        {% if menu.items %}
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
+              <ul class="dropdown-menu">
+              {% for item in menu.items %}
+                  <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
+              {% endfor %}
+              </ul>
+          </li>
+        {% else %}
+          <li>
+            <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </nav>
+    <a href="{{baseUrl}}" class="logo">
+    </a>
+  </header>
+  <div class="sectionContent">
 
 
-</header>

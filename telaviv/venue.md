@@ -1,10 +1,11 @@
 ---
 title: Venue
 layout: multisection
+image: tlv-city-small.jpg
+
 ---
-<section class="img" style="background-image: {{site.multiply}}, url(/assets/images/{% if page.image %}{{page.image}}{% else %}tlv-city-small.jpg{% endif %});background-position: center center, {% if page.imageposition %}{{page.imageposition}}{% else %}center center{% endif %}">
 <h1>{{page.title}}</h1>
-</section>
+</div></section>
 
 
 

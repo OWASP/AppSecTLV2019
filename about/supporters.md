@@ -2,9 +2,10 @@
 title: Supporters
 layout: multisection
 ---
-<section>
+	<h1>{{page.title}}</h1>
+</div></section>
 
-<h1>{{page.title}}</h1>
+<section>
 
 OWASP AppSec  would like to thank the following supporters for helping to spread the word about our conference 26<sub>th</sub> - 30<sub>th</sub> of May, 2019.
  

@@ -2,11 +2,11 @@
 title: Travel information
 layout: multisection
 ---
+</div></section>
+
 <section class="map">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13749342.72054698!2d14.955935301241617!3d32.71865586356415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d4ca6193b7c1f%3A0xc1fb72a2c0963f90!2sTel+Aviv-Yafo%2C+Israel!5e0!3m2!1sen!2sno!4v1507897025226" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </section>
-
-
 
 <section markdown="1">
 # {{page.title}}

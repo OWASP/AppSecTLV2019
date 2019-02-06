@@ -1,11 +1,13 @@
 ---
 title: Hotels
 layout: multisection
+image: attributed/intercontinental_swimming_pool.jpg
+imageposition: center top
 ---
-<section markdown="1" class="img" style="background-image: {{site.multiply}}, url(/assets/images/attributed/intercontinental_swimming_pool.jpg);background-position:bottom right, bottom right,center top" >
 # {{page.title}}
+</div></section>
 
-
+<section>
 **The Conference is being held during a high season and therefore we
 recommend that you book your rooms as early as possible** 
 

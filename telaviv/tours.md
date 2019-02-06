@@ -1,12 +1,13 @@
 ---
 title: Tours of Israel
 layout: multisection
+image: attributed/Jerusalem.jpg
+imageposition: center 33%
 ---
-<section markdown="1" class="img" style="background-image: {{site.multiply}}, url(/assets/images/attributed/Jerusalem.jpg);background-position:bottom right, bottom right,center 33%" >
-
-
 # {{page.title}}
+</div></section>
 
+<section>
 Target Conferences is offering special conference tours. Optional, tailor-made,
 private car tours can be arranged upon request.  
 
