@@ -74,12 +74,13 @@ The following conditions apply for those that want to provide training at the OW
 
 Responsibilities of the trainer:
 
-Required to submit a Training Instructor Agreement.
-Should provide class syllabus / training materials.
-Cover travel and accommodations for the instructor(s)
-Cover all course materials for students.
-Can brand training materials to increase their exposure.
-Should promote training on all available media eg. Twitter, Linkedin
+* Required to submit a [Training Instructor Agreement](docs/Training_Instructor_Agreement.pdf).
+* Should provide class syllabus / training materials.
+* Cover travel and accommodations for the instructor(s)
+* Cover all course materials for students.
+* Can brand training materials to increase their exposure.
+* Should promote training on all available media eg. Twitter, Linkedin
+
 OWASP will provide the venue, marketing, registration logistics and basic wireless internet access. If you need additional technical arrangements, it is important to let us know.
 
 OWASP will reserve up to two training slots at no cost and the trainer may reserve up to one slot at no cost. Please note that for data privacy reasons OWASP cannot provide trainers with contact information of the attendees.
