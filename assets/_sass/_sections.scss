@@ -67,6 +67,29 @@ section {
 	&.map {
 		padding: 0;
 	}
+
+	&:not(:first-of-type) {
+		ul {
+			padding: 0em 1em 1em 1.5em;
+			li {
+				list-style-type: disc;
+			}
+		}
+		ol {
+			padding: 0em 1em 1em 1em;
+			counter-reset: ze-count;
+			li {
+  			counter-increment: ze-count;
+			}
+			li::before {
+  			content: counter(ze-count) ". ";
+  			position: relative;
+  			left: -0.5em;
+			}
+		}
+	}
+
+
 }
 section.img a {
 	color: #fff;
