@@ -4,8 +4,6 @@ layout: multisection
 image: attributed/Jerusalem.jpg
 imageposition: center 33%
 ---
-# {{page.title}}
-</div></section>
 
 <section>
 Target Conferences is offering special conference tours. Optional, tailor-made,

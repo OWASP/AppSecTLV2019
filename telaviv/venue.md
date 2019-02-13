@@ -4,9 +4,6 @@ layout: multisection
 image: tlv-city-small.jpg
 
 ---
-<h1>{{page.title}}</h1>
-</div></section>
-
 
 
 <section markdown="1">

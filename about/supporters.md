@@ -2,8 +2,6 @@
 title: Supporters
 layout: multisection
 ---
-	<h1>{{page.title}}</h1>
-</div></section>
 
 <section>
 
