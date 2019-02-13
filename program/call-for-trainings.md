@@ -2,11 +2,9 @@
 title: Call for Trainings
 ---
 
-The CFT is now open!
+**The <a href="https://owasp.submittable.com/submit/131191/global-appsec-tel-aviv-2019-call-for-trainers" target="_blank">Call for Trainers</a> is now open!**
 
-<a href="https://owasp.submittable.com/submit/131191/global-appsec-tel-aviv-2019-call-for-trainers" target="_blank">Call for Trainers</a>
-
-## Important Dates:
+## Important Dates
 * CfT Closes: Saturday 16th February 2019, end of the day.
 * Notification to submitters: End of February 2019
 * Program announced: Mid March 2019
@@ -44,8 +42,9 @@ Examples of classes include, but are not limited to:
 	* Managing SDLC
 
 ## Review Committee and Policies
+
 * Josh Grossman and Yossi Oren – Committee Chairs
-* Other committee members TBA
+* Other committee members: Ori Troyna, Erlend Oftedal, Adrian Winckles, Ksenia Peguero and Katy Anton
 
 ## Review Policies
 
@@ -71,7 +70,7 @@ The following conditions apply for those that want to provide training at the OW
 
 Responsibilities of the trainer:
 
-* Required to submit a [Training Instructor Agreement](https://www.owasp.org/index.php/File:Training_Instructor_Agreement.doc).
+* Required to submit a [Training Instructor Agreement](docs/Training_Instructor_Agreement.pdf).
 * Should provide class syllabus / training materials.
 * Cover travel and accommodations for the instructor(s)
 * Cover all course materials for students.
