@@ -8,3 +8,9 @@
   items: 
   - title: Sponsoring
     url  : sponsors/
+- title: Tel Aviv
+  items: 
+  - title: Venue
+    url  : telaviv/venue.md
+  - title: Travel
+    url  : telaviv/travel.md
