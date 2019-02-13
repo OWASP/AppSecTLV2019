@@ -5,7 +5,7 @@ title: Call for Papers
 **The <a href="https://owasp.submittable.com/submit/132865/global-appsec-tel-aviv-2019-call-for-papers" target="_blank">Call for Papers</a> is now open!**
 
 
-## Important dates:`
+## Important dates:
 
 * First round of submission closes: February 24th
 * Accepted talks will be announced by: March 10th
