@@ -4,12 +4,12 @@ title: Call for Trainings
 
 **The <a href="https://owasp.submittable.com/submit/131191/global-appsec-tel-aviv-2019-call-for-trainers" target="_blank">Call for Trainers</a> is now open!**
 
-### Important Dates:
+## Important Dates
 * CfT Closes: Saturday 16th February 2019, end of the day.
 * Notification to submitters: End of February 2019
 * Program announced: Mid March 2019
 
-### Introduction
+## Introduction
 
 OWASP's Global AppSec conferences bring together security professionals, engineers, developers and leaders to share and gain knowledge, in order to make the digital world a safer place for everyone. The Global AppSec Tel Aviv conference will take place by the sunny beach of Tel Aviv, and its main theme will be “AppSec: The Community of Innovation”. After all, you are visiting the start-up nation. 
 
@@ -17,7 +17,7 @@ As well as the conference, we will be offering 3 days of training 26th - 28th Ma
 
 Trainers can apply to give 1, 2, or 3 day classes. Trainers are allowed to make multiple applications; one application per class. The training audience will include developers interested in security as well as security professionals.
 
-### Content
+## Content
 
 We are looking for training courses at all levels from someone new to the application security field to advanced topics for experienced professionals. However, all training submissions should have a focus on practical skills which are immediately applicable to an attendees job and have a significant hands-on element with tasks and exercises for attendees to attempt during the training.
 
@@ -41,11 +41,12 @@ Examples of classes include, but are not limited to:
 	* Project Management
 	* Managing SDLC
 
-### Review Committee and Policies
+## Review Committee and Policies
+
 * Josh Grossman and Yossi Oren – Committee Chairs
 * Other committee members: Ori Troyna, Erlend Oftedal, Adrian Winckles, Ksenia Peguero and Katy Anton
 
-### Review Policies
+## Review Policies
 
 OWASP seeks to be an inclusive organization for practitioners from all cultural, gender, language, educational, ability, religious, and career backgrounds. OWASP actively encourages speakers, trainers, and leaders of all genders, sexual orientations, ages, religions, and ethnicity. Our formal efforts in this vein include blind evaluations of talk proposals for our Global AppSec Conferences and active recruiting of a diverse group of invited speakers and trainers.
 
@@ -63,7 +64,7 @@ The programme committee will be looking for the following:
 
 **Note:** Training which is focussed on a specific, product, technology or service which is not available for free may still be considered if it is widely applicable enough and the attendee is not required to purchase to take part in the training.
 
-### Terms
+## Terms
 
 The following conditions apply for those that want to provide training at the OWASP Global AppSec Tel Aviv conference. 
 
@@ -80,7 +81,7 @@ OWASP will provide the venue, marketing, registration logistics and basic wirele
 
 OWASP will reserve up to two training slots at no cost and the trainer may reserve up to one slot at no cost. Please note that for data privacy reasons OWASP cannot provide trainers with contact information of the attendees.
 
-### Split
+## Split
 
 Price per attendee:
 
