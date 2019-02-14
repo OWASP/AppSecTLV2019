@@ -35,11 +35,11 @@ From Tel Aviv Hahagana Bus No 16 can be taken at a cost of approximately 6 Sheke
 
 ### Accommodation
 
-Target Conferences is the official travel agent for the Conference and are offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please see [hotels](hotels) to view the hotel options and to reserve your room. 
+Target Conferences is the official travel agent for the Conference and are offering special reduced rates for accommodation at the conference venue and neighboring hotels.
 
 ### Tours
 
-Target Conferences is offering special pre and post conference tours. Optional, tailor-made, private car tours can be arranged upon request. Please see [Tours of Israel](tours) for further information.
+Target Conferences is offering special pre and post conference tours. Optional, tailor-made, private car tours can be arranged upon request.
 
 
 ## Letter of Invitation
