@@ -31,12 +31,15 @@ Trains are available outside of the Arrivals Hall (Level G) of Ben Gurion Airpor
 
 From Tel Aviv Hahagana Bus No 16 can be taken at a cost of approximately 6 Shekels (US$1.8) until Hananya/Hayarkon stop, which is located 3 mins walk from the Conference venue.
 
-
 ## Travel agent
 
-Accommodation Target Conferences is the official travel agent for the Conference and are offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please see [hotels](hotels) to view the hotel options and to reserve your room. 
+### Accommodation
 
-Tours Target Conferences is offering special pre and post conference tours. Optional, tailor-made, private car tours can be arranged upon request. Please see [Tours of Israel](tours) for further information.
+Target Conferences is the official travel agent for the Conference and are offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please see [hotels](hotels) to view the hotel options and to reserve your room. 
+
+### Tours
+
+Target Conferences is offering special pre and post conference tours. Optional, tailor-made, private car tours can be arranged upon request. Please see [Tours of Israel](tours) for further information.
 
 
 ## Letter of Invitation
@@ -49,7 +52,7 @@ Prior to booking your ticket, don't forget to ensure that your passport is valid
 
 ## Climate and Clothing
 
-The weather in Tel Aviv in June is hot with highs of approx. 25°-30°C during the day and lows of 20°C in the evening.
+The weather in Tel Aviv in May is hot with highs of approx. 25°-30°C during the day and lows of 20°C in the evening.
 
 ## Local Currency
 
@@ -61,7 +64,7 @@ As of today (February 2019):
 
 ## Time Zone
 
-Israel is at UTC+03:00 zone.
+Israel is at UTC+02:00 zone.
 
 ## Electricity
 
