@@ -2,7 +2,7 @@
 title: Call for Trainings
 ---
 
-**The <a href="https://owasp.submittable.com/submit/131191/global-appsec-tel-aviv-2019-call-for-trainers" target="_blank">Call for Trainers</a> is now open!**
+**The Call for Trainers has now closed. Thank you for your excellent submissions!**
 
 ## Important Dates
 * CfT Closes: Saturday 16th February 2019, end of the day.
