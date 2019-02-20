@@ -44,7 +44,8 @@ Examples of classes include, but are not limited to:
 ## Review Committee and Policies
 
 * Josh Grossman and Yossi Oren – Committee Chairs
-* Other committee members: Ori Troyna, Erlend Oftedal, Adrian Winckles, Ksenia Peguero and Katy Anton
+* Other committee members: Ori Troyna, Erlend Oftedal, Adrian Winckles, Ksenia Peguero, Katy Anton, Roberto Martelloni and Ethan Schorer.
+ 
 
 ## Review Policies
 
