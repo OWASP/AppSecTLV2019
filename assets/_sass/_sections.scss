@@ -1,11 +1,19 @@
-.front section.img {
-	h2 {
-		font-size: 220%;
+.front{
+	section.img {
+		h2 {
+			font-size: 220%;
+		}
+		h3 {
+			font-size: 200%;
+		}	
 	}
-	h3 {
-		font-size: 200%;
-	}	
-
+	section:not(.img) h2 {
+		background: $medium;
+		color: #fff;
+		margin: 0em -2.5em 0em -2.5em;
+		padding: 0.5em 2.5em;
+		font-size: 240%;
+	}
 }
 
 section {
@@ -35,7 +43,7 @@ section {
 			color: $medium;
 		}
 	}
-	&.inverse+section, &.img+section { padding-top: 2em; }
+	&.inverse+section p:first-child, &.img+section p:first-child { padding-top: 2em; }
 	&.img+section.map { padding-top: 0em; }
 	&:first-of-type {
 		border-top: 2.3em solid $medium;
@@ -101,7 +109,18 @@ section.img .sectionContent a {
 		h3 {
 			font-size: 190%;
 		}
+
 	}
+	.front {
+		section:not(.img) h2 {
+			background: $medium;
+			color: #fff;
+			margin: -0.5em -0.5em 0em -0.5em;
+			padding: 0.5em 0.5em;
+			font-size: 240%;
+		}
+	}
+
 
 	section {
 		padding: 1em 1em 2em 1em;
