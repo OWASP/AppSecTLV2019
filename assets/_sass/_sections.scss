@@ -1,4 +1,4 @@
-section.front {
+.front section.img {
 	h2 {
 		font-size: 275%;
 	}
@@ -6,13 +6,6 @@ section.front {
 		font-size: 200%;
 	}	
 
-	xmargin-bottom: -14em;
-	&.img{
-		padding-bottom: 16em;
-	}
-	.logo {
-		width: 20%;
-	}
 }
 
 section {
@@ -42,7 +35,7 @@ section {
 			color: $medium;
 		}
 	}
-	&.inverse+section, &.img+section { padding-top: 1em; }
+	&.inverse+section, &.img+section { padding-top: 2em; }
 	&.img+section.map { padding-top: 0em; }
 	&:first-of-type {
 		border-top: 2.3em solid $medium;
@@ -56,7 +49,6 @@ section {
 		border-top: none;
 		background-size: cover;
 		background-position: top left;
-
 		width: 100%;
 		height: 100%;
 		background-position: bottom right, top left;

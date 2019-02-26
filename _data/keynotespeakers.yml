@@ -1,10 +1,12 @@
 - image: 
-  name: 
-  description:
-  style: 
+  name: Michal Braverman-Blumenstyk
+  title: CTO - Cloud and AI Security, Microsoft
+  bio:
+  subject: 
+  abstract:
 - image: 
-  name: 
-  description:
-- image: 
-  name: 
-  description: 
+  name: Astha Singhal 
+  title: Director of AppSec, Netflix
+  bio:
+  subject: 
+  abstract:

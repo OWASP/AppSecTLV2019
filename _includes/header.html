@@ -31,7 +31,7 @@
   <script src="{{baseUrl}}assets/js/script.js?_={{ site.time | date: '%s' }}"></script>
   
 </head>
-<body class="{{bodyclass}}">
+<body class="{{page.bodyclass}}">
 <div class="main {{page.additionalclass}}">
   <section class="img" style="background-image: {{site.multiply}}, url(/assets/images/{% if page.image %}{{page.image}}{% else %}tlv-city-small.jpg{% endif %});background-position: center center, {% if page.imageposition %}{{page.imageposition}}{% else %}center center{% endif %}">
   <header>
