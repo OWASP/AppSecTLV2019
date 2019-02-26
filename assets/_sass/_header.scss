@@ -104,6 +104,14 @@ header {
 
 
 @media (max-width: 500px) {
+	.front header .logo {
+		height: 8em;
+		width: 100%;
+		background-position: center center;
+		top: 0em;
+		left: 0em;
+	}
+
 	header {
 		.logo {
 			width: 10em;
