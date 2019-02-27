@@ -1,4 +1,4 @@
-- title: Submit
+- title: Program
   items:
   - title: Call for papers
     url  : program/call-for-papers
@@ -8,3 +8,13 @@
   items: 
   - title: Sponsoring
     url  : sponsors/
+- title: Tel Aviv
+  items: 
+  - title: Venue
+    url  : telaviv/venue
+  - title: Travel
+    url  : telaviv/travel
+- title: About
+  items: 
+  - title: Global AppSec
+    url  : about/

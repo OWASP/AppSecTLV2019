@@ -1,17 +1,18 @@
-section.front {
-	h2 {
-		font-size: 275%;
+.front{
+	section.img {
+		h2 {
+			font-size: 220%;
+		}
+		h3 {
+			font-size: 200%;
+		}	
 	}
-	h3 {
-		font-size: 200%;
-	}	
-
-	xmargin-bottom: -14em;
-	&.img{
-		padding-bottom: 16em;
-	}
-	.logo {
-		width: 20%;
+	section:not(.img) h2 {
+		background: $medium;
+		color: #fff;
+		margin: 0em -2.5em 0em -2.5em;
+		padding: 0.5em 2.5em;
+		font-size: 240%;
 	}
 }
 
@@ -42,7 +43,7 @@ section {
 			color: $medium;
 		}
 	}
-	&.inverse+section, &.img+section { padding-top: 1em; }
+	&.inverse+section p:first-child, &.img+section p:first-child { padding-top: 2em; }
 	&.img+section.map { padding-top: 0em; }
 	&:first-of-type {
 		border-top: 2.3em solid $medium;
@@ -56,7 +57,6 @@ section {
 		border-top: none;
 		background-size: cover;
 		background-position: top left;
-
 		width: 100%;
 		height: 100%;
 		background-position: bottom right, top left;
@@ -67,14 +67,61 @@ section {
 	&.map {
 		padding: 0;
 	}
+
+	&:not(:first-of-type) {
+		ul {
+			padding: 0em 1em 1em 1.5em;
+			li {
+				list-style-type: disc;
+			}
+		}
+		ol {
+			padding: 0em 1em 1em 1em;
+			counter-reset: ze-count;
+			li {
+  			counter-increment: ze-count;
+			}
+			li::before {
+  			content: counter(ze-count) ". ";
+  			position: relative;
+  			left: -0.5em;
+			}
+		}
+	}
+
+
 }
-section.img a {
+section.img .sectionContent a {
 	color: #fff;
 	text-decoration: underline;
 }
 
 
 @media (max-width: 500px) {
+	.front section.img .sectionContent {
+		text-align: center;
+		h1 {
+			font-size: 300%;
+		}
+		h2 {
+			font-size: 220%;
+		}
+		h3 {
+			font-size: 190%;
+		}
+
+	}
+	.front {
+		section:not(.img) h2 {
+			background: $medium;
+			color: #fff;
+			margin: -0.5em -0.5em 0em -0.5em;
+			padding: 0.5em 0.5em;
+			font-size: 240%;
+		}
+	}
+
+
 	section {
 		padding: 1em 1em 2em 1em;
 

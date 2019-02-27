@@ -5,13 +5,13 @@ title: Keynotes
 <div class="keynote-full">
 	
 	<ul>
-	{% for member in site.data.keynotespeakers %}
-		{% if member.name %}
+	{% for speaker in site.data.keynotespeakers %}
+		{% if speaker.name %}
 		<li>
-			<img style="background-image: url(/assets/images/keynotes/{{member.image | default: 'owasp_logo.png'}});{{member.style}};">
-			<h4>{{member.name}}</h4>
+			<img style="background-image: url(/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});{{speaker.style}};">
+			<h4>{{speaker.name}}</h4>
 			<p>
-				{{member.description}}
+				{{speaker.bio}}
 			</p>
 		</li>
 		{% endif %}

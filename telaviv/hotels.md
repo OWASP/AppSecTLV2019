@@ -4,8 +4,6 @@ layout: multisection
 image: attributed/intercontinental_swimming_pool.jpg
 imageposition: center top
 ---
-# {{page.title}}
-</div></section>
 
 <section>
 **The Conference is being held during a high season and therefore we
