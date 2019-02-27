@@ -71,7 +71,7 @@ The following conditions apply for those that want to provide training at the OW
 
 Responsibilities of the trainer:
 
-* Required to submit a [Training Instructor Agreement](docs/Training_Instructor_Agreement.pdf).
+* Required to submit a [Training Instructor Agreement](../docs/Training_Instructor_Agreement.pdf).
 * Should provide class syllabus / training materials.
 * Cover travel and accommodations for the instructor(s)
 * Cover all course materials for students.
