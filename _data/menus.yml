@@ -16,5 +16,7 @@
     url  : telaviv/travel
 - title: About
   items: 
+  - title: Code of Conduct
+    url  : about/CoC
   - title: Global AppSec
     url  : about/
