@@ -8,17 +8,17 @@ layout: multisection
 	<p>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct.
 	Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.</p>
 
-	<h3>NEED HELP?</h3>
+	<h2>NEED HELP?</h2>
 
 	<p>Find any of the organizers or staff members. Volunteers will also be on hand to help you in any situation.</p>
 
-	<h3>THE QUICK VERSION</h3>
+	<h2>THE QUICK VERSION</h2>
 
 	<p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, race, religion, etc..
 	We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.
 	Conference participants violating these rules may be sanctioned or expelled from the conference without recompense at the discretion of the conference organisers.</p>
 
-	<h3>THE LESS QUICK VERSION</h3>
+	<h2>THE LESS QUICK VERSION</h2>
 
 	<p>Harassment includes offensive verbal comments related to gender, race, religion, etc technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 	Participants asked to stop any harassing behavior are expected to comply immediately.
@@ -31,7 +31,7 @@ layout: multisection
 	We value your attendance.
 	We expect participants to follow these rules at conference and workshop venues and conference-related social events.</p>
 
-	<h3>FAMILY FRIENDLY</h3>
+	<h2>FAMILY FRIENDLY</h2>
 
 	<p>Please note that Global AppSec Tel Aviv 2019 is a family friendly conference.
 	If you need to bring your baby with you in order to attend, please do so! We only request that you be sensitive to others close to you, if your child needs to make noise please take them to the side of the room, or outside if they are subtantially disturbing others.
