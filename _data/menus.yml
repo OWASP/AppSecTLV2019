@@ -5,18 +5,20 @@
   - title: Call for trainings
     url: program/call-for-trainings
 - title: Sponsor
-  items: 
+  items:
   - title: Sponsoring
     url  : sponsors/
   - title: Career Fair
     url  : sponsors/career-fair
 - title: Tel Aviv
-  items: 
+  items:
   - title: Venue
     url  : telaviv/venue
   - title: Travel
     url  : telaviv/travel
 - title: About
-  items: 
+  items:
+  - title: Code of Conduct
+    url  : about/code-of-conduct
   - title: Global AppSec
     url  : about/
