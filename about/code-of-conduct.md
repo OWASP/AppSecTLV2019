@@ -1,24 +1,18 @@
 ---
-title: CODE OF CONDUCT
-layout: multisection
+title: Code of Conduct
 ---
 
-<section>
+All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
-All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct.
-Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
-
-##NEED HELP?
+## Need help?
 
 Find any of the organizers or staff members. Volunteers will also be on hand to help you in any situation.
 
-##THE QUICK VERSION
+## The Quick Version
 
-<p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, race, religion, etc..
-We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.
-Conference participants violating these rules may be sanctioned or expelled from the conference without recompense at the discretion of the conference organisers.</p>
+Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, race, religion, etc.. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without recompense at the discretion of the conference organisers.
 
-##THE LESS QUICK VERSION
+## The Less Quick Version
 
 Harassment includes offensive verbal comments related to gender, race, religion, etc technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 Participants asked to stop any harassing behavior are expected to comply immediately.
@@ -31,10 +25,9 @@ Conference staff will be happy to help participants contact venue security or lo
 We value your attendance.
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
-##FAMILY FRIENDLY
+## Family Friendly
 
 Please note that Global AppSec Tel Aviv 2019 is a family friendly conference.
 If you need to bring your baby with you in order to attend, please do so! We only request that you be sensitive to others close to you, if your child needs to make noise please take them to the side of the room, or outside if they are subtantially disturbing others.
 Even if you are not bringing a child, please be considerate of those that are, and remain patient even if they are a little bit fussy.
 Ensure your behavior is appropriate around small children.
-</section>
