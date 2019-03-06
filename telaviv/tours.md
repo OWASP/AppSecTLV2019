@@ -5,266 +5,149 @@ image: attributed/Jerusalem.jpg
 imageposition: center 33%
 ---
 
-<section>
-Target Conferences is offering special conference tours. Optional, tailor-made,
-private car tours can be arranged upon request.  
+<section markdown="1">
 
-[CLICK HERE](https://knasim.herokuapp.com/owasp2018/register) TO BOOK TOURS OF ISRAEL
+Target Conferences is offering special post conference tours.
+Optional, tailor-made, private car tours can be arranged upon request.
+[CLICK HERE](https://knasim.herokuapp.com/owasp2019/register) TO BOOK TOURS OF ISRAEL
+
+</section>
+
+<section markdown="1">
+### Tour A - MASADA AND THE DEAD SEA
+
+**One Day Sightseeing**  
+*Friday, May 31, 2019*
+
+Pick-up at 08:30 from the David Intercontinental Hotel.
+Travel via the Judean desert to Masada.
+Ascend Masada by cable car to tour the remains of the 2000-year-old fortress and palace built by King Herod. Afterwards, drive to the Dead Sea and float in the mineral-rich water, 400m below sea level, the lowest place on earth.
+Take a mud-bath and benefit from the therapeutic qualities of the natural Dead Sea mud.
+Expected return to the David Intercontinental Hotel about 18:30.
+
+**Rate per person: US$115**
+
+![alt text](../assets/images/tours/Tour_A_MASADA_1.jpg "MASADA AND THE DEAD SEA")
+![alt text](../assets/images/tours/Tour_A_MASADA_2.jpg "Photo credit: www.goisrael.com, by Itamar Grinberg")
+
+</section>
+<section markdown="1">
+### Tour B - JERUSALEM - THE OLD & THE NEW
+
+**One Day Sightseeing**  
+*Saturday, June 1, 2019*
+
+Pick-up at 09:00 from the David Intercontinental Hotel.
+Begin your tour with a panoramic overview of Jerusalem from the Mount of Olives, where you will overlook the new city of Jerusalem and the Temple Mount.
+Next visit the Garden of Gethsemane and enter the old city via the Dung Gate to the Western (wailing) Wall Square. While in the old city, you will also visit some of the Stations of the Cross (Via Dolorosa) and the Church of the Holy Sepulchre.
+Continue with a walk through the Arab market and exit the Old City at the Jaffa Gate.
+Drive around the new city, and if time permits, stop at Machane Yehuda market.
+Expected return to David Intercontinental Hotel by 17:00.
+
+**Rate per person: US$90**
+
+![alt text](../assets/images/tours/Tour_B_JERUSALEM_1.jpg "Photo credit: www.goisrael.com, by Noam Chen")
+![alt text](../assets/images/tours/Tour_B_JERUSALEM_2.jpg "Photo credit: www.goisrael.com, by Noam Chen")
+
+</section>
+<section markdown="1">
+### Tour C - NAZARETH, TIBERIAS & SEA OF GALILEE
+
+**One Day Sightseeing**  
+*Sunday, June 2, 2019*
+
+Pick-up at 08:00 from the David Intercontinental Hotel.
+Travel to the lower Galilee to Nazareth, the town where Jesus spent his childhood.
+Visit the Church of Annunciation and the Church of St. Joseph.
+Continue, via Kana, to Tiberias, the lovely resort town on the Sea of Galilee.
+Drive along the Kineret lake to visit Capernaum and view the ruins of the ancient synagogue where Jesus taught; Continue to Tabgha, the site of the miracle of Fish and Loaves located at the foot of the Golan Heights; Proceed to Yardenit, the famous baptismal site where the Jordan river flows out of the Sea of Galilee towards the Dead Sea. Expected return to David Intercontinental Hotel by 18:00
+
+**Rate per person: US$90**
+
+![alt text](../assets/images/tours/Tour_C_NAZARETH_1.jpg "Photo credit: www.goisrael.com, by Dafna Tal")
+![alt text](../assets/images/tours/Tour_C_NAZARETH_2.jpg "Photo credit: www.goisrael.com")
 
 </section>
 <section markdown="1">
 
-### Pre-Conference Tour A - NAZARETH, SEA OF GALILEE
+Above rates (for Tour A, B and C) are based on a minimum of 15 participants.
+Should there be less than 15 participants per tour, alternative arrangements will be offered whereby participants will be able to join guaranteed group tours.
 
-**Full Day Tour**  
-*Saturday, June 16, 2018*
+**Rate for tours  A, B and C includes:**
 
-07:30 Meet at the Intercontinental David Tel Aviv Hotel for a drive to the north to Nazareth with the Church of Annunciation, one of the biggest churches in the Middle East. View the unique architecture of the Church and if time permitting, visit Joseph's workshop before proceeding to the Sea of Galilee. Tour includes Tabgha with the Church of Multiplication. Proceed to Capernaum to tour the ruins of the 2nd century Synagogue and a town where Jesus was said to have lived. Return to the center at around 18:00
+*	Travel by air-conditioned coach with the services of a government licensed tour guide
+*	Entrance fees to sites, as per itinerary
+*	Pick-up and drop-offs from the David Intercontinental Hotel
 
-**Rate based on a minimum of 15 participants:**  
-US$89 p/person
 
-**Rate includes:**
+**Rate for tours  A, B and C does not include:**
 
-* Services of a government licensed English speaking guide
-* Drive in an airconditioned motorcoach
-* Entrance fees as per itinerary
-
-**Rate does not include:**
-
-* Lunch en route/incidentals
+* Lunch en route
 * Tips to guide &amp; driver
+*	Transfers from Ben-Gurion Airport to Tel Aviv
 
 **Note:** Modest dress (no shorts or sleeveless shirts) and head covering are required for visiting holy sites
 
 </section>
 <section markdown="1">
 
+### Tour D - PETRA, JORDAN
 
-### Pre-Conference Tour B  - JERUSALEM AND BETHLEHEM
+**Full - One Day Sightseeing (Group tour in Petra)**  
+*Sunday, June 2, 2019*
 
-**Full Day Tour**  
-*Sunday, June 17, 2018*
+Meet at Domestic Airport for early morning flight to Eilat.
+Meet with the local Representative who will take you to the Jordanian border crossing and assist with border formalities.
+Meet with your local Guide, and drive to Petra, the astonishing rose-red city built by the Nabateans.
+Petra was renowned for it's massive architecture, pools, dams and water channels.
+Walk into the narrow canyon that leads to the red rock. Visit the treasury, royal tombs, the court, roman theater, Qasser El-Bint (Palace of Pharaoh's daughter).
+After the visit, stop for lunch. Drive though Aqaba for a short panoramic tour before back to the Arava border crossing.
+Return to Eilat for your evening flight back to Tel Aviv.
 
-08:00 Meet at the Intercontinental David Tel Aviv Hotel. Drive out through the Judean Hills to Jerusalem. Start atop the Mount of Olives for a panoramic view of the Old City. Drive down to the Dung Gate and enter at the famous Western (wailing) Wall. Walk along some of the Stations of the Via Dolorosa, ending with a visit to the Church of Holy Sepulchre. Exit the Old City for a drive to Bethlehem and visit to the Church of Nativity and Manger&#39;s square. Return to the center at around 18:00
+**Rate per person: US$ 388**
 
-**Rate based on a minimum of 15 participants:**  
-US$115 p/person
+![alt text](../assets/images/tours/Tour_D_PETRA_1.jpg "PETRA, JORDAN")
+![alt text](../assets/images/tours/Tour_D_PETRA_2.jpg "PETRA, JORDAN")
 
-**Rate includes:**
+**Rate for tour D includes:**
 
-* Services of a government licensed English speaking guide
-* Drive in an airconditioned motorcoach
-* Entrance fees as per itinerary
+* Round trip flights from Tel Aviv to Eilat to Tel Aviv
+*	Lunch in Petra
+*	Travel by air-conditioned coach with English speaking tour guide
+*	Entrance fees to sites, as per itinerary
 
-**Rate does not include:**
 
-* Lunch en route/incidentals
+**Rate for tour D does not include:**
+
 * Tips to guide &amp; driver
+* Visa and border fees (US$ 125 per person to be paid in cash to be paid at the Jordan border crossing)
+* Transfers from Tel Aviv Hotel to domestic airport and back to hotel
 
-**Note:** Good walking shoes recommended. Modest dress (no shorts or sleeveless shirts) and
-head covering are required for visiting holy sites
 
-</section>
-<section markdown="1">
-
-
-### Pre-Conference Tour C - MASSADA AND THE DEAD SEA
-**Full Day Tour**  
-*Sunday, June 17, 2018*
-
-​08:00 Meet at the Intercontinental David Tel Aviv Hotel. Drive via Modi&#39;in to Judean Desert. Pass some Bedouin encampments en route to the Dead Sea. Visit Massada, the last stronghold of the Zealots against Rome. Descend the mountain for a &#39;dip&#39; in the Dead Sea before returning to Tel Aviv at approximately 17:00.
-
-**Rate based on a minimum of 15 participants:**  
-US$115 p/person
-
-**Rate includes:**
-
-* Services of a government licensed English speaking guide
-* Drive in an airconditioned motorcoach
-* Entrance fees as per itinerary
-
-**Rate does not include:**
-
-* Lunch en route/incidentals
-* Tips to guide &amp; driver
-
-**Note:** Good walking shoes, a sunhat and sunscreen lotion recommended. Bring along a bathing suit, towel and swim shoes for the &#39;dip&#39; in the Dead Sea.
-
-</section>
-<section markdown="1">
-
-
-### Pre-Conference Tour D - JERUSALEM AND BETHLEHEM
-**Full Day Tour**  
-*Tuesday, June 19, 2018*
-
-08:00 Meet at the Intercontinental David Tel Aviv Hotel. Drive out through the Judean Hills to Jerusalem. Start atop the Mount of Olives for a panoramic view of the Old City. Drive down to the Dung Gate and enter at the famous Western (wailing) Wall. Walk along some of the Stations of the Via Dolorosa, ending with a visit to the Church of Holy Sepulchre. Exit the Old City for a drive to Bethlehem and visit to the Church of Nativity and Manger&#39;s square. Return to the center at around 18:00.
-
-**Rate based on a minimum of 15 participants:**  
-US$115 p/person
-
-**Rate includes:**
-
-* Services of a government licensed English speaking guide
-* Drive in an airconditioned motorcoach
-* Entrance fees as per itinerary
-
-**Rate does not include:**
-
-* Lunch en route/incidentals
-* Tips to guide &amp; driver
-
-**Note:** Good walking shoes recommended. Modest dress (no shorts or sleeveless shirts) and
-head covering are required for visiting holy sites
-
-</section>
-<section markdown="1">
-
-
-### Post-Conference Tour E - MASSADA AND THE DEAD SEA
-**Full Day Tour**  
-*Tuesday, June 19, 2018*
-
-08:00 Meet at the Intercontinental David Tel Aviv Hotel. Drive via Modi&#39;in to Judean Desert. Pass some Bedouin encampments en route to the Dead Sea. Visit Massada, the last stronghold of the Zealots against Rome. Descend the mountain for a &#39;dip&#39; in the Dead Sea before returning to Tel Aviv at approximately 17:00.
-
-**Rate based on a minimum of 15 participants:**  
-US$115 p/person
-
-**Rate includes:**
-
-* Services of a government licensed English speaking guide
-* Drive in an airconditioned motorcoach
-* Entrance fees as per itinerary
-
-**Rate does not include:**
-
-* Lunch en route/incidentals
-* Tips to guide &amp; driver
-
-**Note:** Good walking shoes, a sunhat and sunscreen lotion recommended. Bring along a
-bathing suit, towel and swim shoes for the &#39;dip&#39; in the Dead Sea.
-
-</section>
-<section markdown="1">
-
-
-### Pre-Conference Tour F  - HAIFA AND CAESAREA
-**Half-Day Tour**  
-*Tuesday, June 19, 2018*
-
-08:00 Meet at the Intercontinental David Tel Aviv Hotel. Drive along the coastal highway to Haifa – Israel&#39;s major port city and the 3rd largest city in Israel. Enjoy the panoramic view of the bay from the top of the Carmel mountain. Visit the Bahai Gardens a staircase of nineteen terraces all the way up the slope of the mountain. On to Caesarea, now a national park. Caesarea the city that was built by King Herod. Visit the crusader castle and roman theater before returning to the center at about 14:00 hours.
-
-**Rate based on a minimum of 15 participants:**  
-US$80 p/person
-
-**Rate includes:**
-
-* Services of a government licensed English speaking guide
-* Drive in an airconditioned motorcoach
-* Entrance fees as per itinerary
-
-**Rate does not include:**
-
-* Lunch en route/incidentals
-* Tips to guide &amp; driver
-
-**Note:** Good walking shoes recommended. Modest dress (no shorts or sleeveless shirts) and
-head covering are required for visit to the Bahai shrine.
-
-</section>
-<section markdown="1">
-
-
-### Post-Conference Tour G - JERUSALEM AND YAD VASHEM
-**Full Day Tour**  
-*Friday, June 22, 2018*
-
-08:00 Meet at the Intercontinental David Tel Aviv Hotel. Drive out through the Judean Hills to	Jerusalem. Start atop the Mount of Olives for a panoramic view of the Old City. Drive down	to the Dung Gate and enter at the famous Western (wailing) Wall. Enjoy a tour of the Jewish	Quarter in the Old City to include the Cardo. On to the Church of Holy Sepulchre before	exiting the Old City for a drive out to Yad Vashem, memorial to the Holocaust. Return to the	center at around 17:00
-
-**Rate based on a minimum of 15 participants:**  
-US$115 p/person
-
-**Rate includes:**
-
-* Services of a government licensed English speaking guide
-* Drive in an airconditioned motorcoach
-* Entrance fees as per itinerary
-
-**Rate does not include:**
-
-* Lunch en route/incidentals
-* Tips to guide &amp; driver
-
-**Note:** Good walking shoes recommended. Modest dress (no shorts or sleeveless shirts) and
-head covering are required for visiting holy sites
-
-</section>
-<section markdown="1">
-
-
-### Post-Conference Tour H - MASSADA AND THE DEAD SEA
-**Full Day Tour**  
-*Friday, June 22, 2018*
-
-08:00 Meet at the Intercontinental David Tel Aviv Hotel. Drive via Modi&#39;in to Judean Desert. Pass some Bedouin encampments en route to the Dead Sea. Visit Massada, the last stronghold of the Zealots against Rome. Descend the mountain for a &#39;dip&#39; in the Dead Sea before returning to Tel Aviv at approximately 17:00.
-
-**Rate based on a minimum of 15 participants:**  
-US$115 p/person
-
-**Rate includes:**
-
-* Services of a government licensed English speaking guide
-* Drive in an airconditioned motorcoach
-* Entrance fees as per itinerary
-
-**Rate does not include:**
-
-* Lunch en route/incidentals
-* Tips to guide &amp; driver
-
-**Note:** Good walking shoes, a sunhat and sunscreen lotion recommended. Bring along a
-bathing suit, towel and swim shoes for the &#39;dip&#39; in the Dead Sea.
-
-</section>
-<section markdown="1">
-
-### TOURS TO PETRA, JORDAN ARE AVAILABLE ON REQUEST
-
-Please contact the Conference Secretariat:
-[owasp2018.reg@target-conferences.com](mailto:owasp2018.reg@target-conferences.com)
+**Note:** Passports are required
 
 </section>
 <section class="inverse" markdown="1">
 
+## Contact
+For any questions concerning accommodations and tours, please feel free to contact:  
+Target Conferences Ltd.  
+Phone:  +972 3 5175150  
+Email address: owasp.reg@target-conferences.com
+
 ## Payment
+In order to book your accommodation, and in order to benefit from the special rates, please complete the on-line accommodation and tours form.
+Full payment is required at time of booking.
 
-In order to book your tours, and in order to benefit from the special rates, please complete the on-line tours form. Full payment for tours is required at time of booking.
+Payment for accommodation may be made by bank transfer or credit card (Visa, Mastercard, American Express, Diners).
+Kindly refer to the on-line registration form.
 
-Payment for tours may be made by bank transfer or credit card (Visa, Mastercard, American Express, Diners). Kindly refer to the on-line form.
-
-Bank Transfers should be made to the following account:  
-Account Name: Target Conferences Ltd.  
-Bank Leumi  
-Gordon Branch (Branch Number 804)  
-87 Ben Yehuda Street, Tel Aviv, Israel  
-Account Number: 379000/70  
-Swift Code: LUMIILIT  
-IBAN: IL18 0108 0400 0003 7900 070
-
-*Please ensure that the name/s of the participants and conference name
-(OWASP2018) are clearly stated on the bank transfer. Bank transfer charges are
-the responsibility of the payer and should be paid at source in addition to the
-registration fees.*
+## CANCELLATION OF TOURS
+* Up to 30 days prior to arrival - full refund
+* Less than 30 days prior to arrival - no refund
 
 ## Important Notes
-
 * Personal travel, luggage and health insurance is recommended.
 * Please note that the organizers cannot be responsible for participants lacking appropriate insurance coverage in case of need.
 
-
-## CANCELLATION OF TOURS
-
-Up to 45 days prior to arrival - full refund less handling fee of US$70 per person
-Less than 45 days prior to arrival - no refund
 </section>
