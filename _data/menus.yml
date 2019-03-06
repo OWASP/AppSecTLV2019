@@ -16,6 +16,10 @@
     url  : telaviv/venue
   - title: Travel
     url  : telaviv/travel
+  - title: Hotels
+    url  : telaviv/hotels
+  - title: Tours
+    url  : telaviv/tours
 - title: About
   items:
   - title: Code of Conduct
