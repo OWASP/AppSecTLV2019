@@ -4,4 +4,13 @@ footer {
 	text-align: center;
 	padding: 1em;
 	clear: both;
+	.coc {
+		position: relative;
+		width: 5em;
+		height: 4em;
+		background: url(../images/CoC-button.png) top no-repeat;
+		background-position: top center;
+		display: block;
+		z-index: 2;
+	}
 }
