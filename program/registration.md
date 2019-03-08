@@ -31,10 +31,14 @@ There are several registration options:
 
 |   Registration Type    | Fee* | Details |  |
 |------------------------|:----:|:-------:|:-------:|
-| Non-Member Conference  | $650 | Includes conference program for two days, coffee breaks, lunch, expo, and conference dinner event ticket | Available Now |
-| Member Conference  | $600 | Includes conference program for two days, coffee breaks, lunch, expo, and conference dinner event ticket | Available Now |
-| Student  | $125  | Includes conference program for two days, coffee breaks, lunch, and expo. conference dinner event ticket is not included. | Available Now |
-| Conference Dinner Event Ticket Only  | $125 | Additional conference event tickets can be purchased. | Available Now |
+| Non-Member Conference  | $650 | Includes conference program for two days,\ | Available Now |
+|                        |      | coffee breaks, lunch, expo, and conference dinner event ticket||
+| Member Conference      | $600 | Includes conference program for two days,\ | Available Now |
+|                        |      | coffee breaks, lunch, expo, and conference dinner event ticket ||
+| Student                | $125 | Includes conference program for two days,\ | Available Now |
+|                        |      | coffee breaks, lunch, and expo. conference dinner event ticket is not included.||
+| Conference Dinner\     | $125 | Additional conference event tickets can be purchased. | Available Now |
+| Event Ticket Only      |      |||
 
 * Note: If you receive a discount code, select the registration category first, then enter the discount code and the fee will be modified based on the code.
 
