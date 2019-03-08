@@ -8,26 +8,25 @@ title: Registration Locals
 
 The event offers attendees three, _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv. Further information regarding the training program and how to book will be available shortly.
 
-|   *Course title*    | *Length* | *Days* | *Cost* | *Initial Maximum attendees* |
+|   *Course title*    | *Length* | *Days* | *Cost* |
 |------------------------|:----:|:-------:|:-------:|:-------:|
-| Advanced Web Hacking with Dhruv Shah and Sunil Yadav (NotSoSecure)  | 3 Days | Sun/Mon/Tue | $2400 | 11 |
-| Attacking and Defending Containerized Apps and | 3 Days | Sun/Mon/Tue | $2400 | 11 |
-| Serverless Tech with Nithin Jois (we45) |  |  |  |  |
-| DevSecOps MasterClass with Abhay Bhargav (we45) | 3 Days | Sun/Mon/Tue | $2400 | 11 |
-| Advanced Whiteboard hacking – aka hands-on | 2 Days | Mon/Tue | $1650 | 11 |
-| Threat Modeling with Steven Wierckx (Toreon) | | |  | |
-| An Introduction to Hacking Blockchain | 2 Days | Mon/Tue | $1650 | 11 |
-| Applications and Smart Contracts with Mick Ayzenberg (Security Innovation) |  |  |  |  |
-| Hands-on Secure Coding in Node.js with Chetan Karande | 2 Days | Mon/Tue | $1650 | 11 |
-| Mastering Secure coding and web-application | 2 Days | Mon/Tue | $1650 | 11 |
-| security testing with Glenn ten Cate (DefDev.eu) |  | | |  |
-| Program Building: Navigating Your First | 2 Days | Mon/Tue | $1650 | 11 |
-| Year As A First Time CISO with Robert Wood |  |  |  |  |
-| Seth & Ken’s Excellent Adventures (in Code Review) | 2 Days | Mon/Tue | $1650 | 11 |
-| with Ken Johnson and Seth Law |  | |  |  |
-| Modern iOS App Exploitation with Swaroop Yermalkar | 1 Day | Mon | $850 | 11 |
-| Modern Android App Exploitation with Arun Thomas | 1 Day | Tue | $850 | 16 |
-| Defending Golang with Mike Doyle (Synopsys) | 1 Day | Tue | $850 | 16 |
+| Advanced Web Hacking with Dhruv Shah and Sunil Yadav (NotSoSecure)  | 3 Days | Sun/Mon/Tue | $2400 |
+| Attacking and Defending Containerized Apps <br> and Serverless Tech with Nithin Jois (we45) | 3 Days | Sun/Mon/Tue | $2400 |
+| DevSecOps MasterClass with Abhay Bhargav (we45) | 3 Days | Sun/Mon/Tue | $2400 |
+| Advanced Whiteboard hacking – aka hands-on | 2 Days | Mon/Tue | $1650 |
+| Threat Modeling with Steven Wierckx (Toreon) | | |  |
+| An Introduction to Hacking Blockchain | 2 Days | Mon/Tue | $1650 |
+| Applications and Smart Contracts with Mick Ayzenberg (Security Innovation) |  |  |  |
+| Hands-on Secure Coding in Node.js with Chetan Karande | 2 Days | Mon/Tue | $1650 |
+| Mastering Secure coding and web-application | 2 Days | Mon/Tue | $1650 |
+| security testing with Glenn ten Cate (DefDev.eu) |  | | |
+| Program Building: Navigating Your First | 2 Days | Mon/Tue | $1650 |
+| Year As A First Time CISO with Robert Wood |  |  |  |
+| Seth & Ken’s Excellent Adventures (in Code Review) | 2 Days | Mon/Tue | $1650 |
+| with Ken Johnson and Seth Law |  | |  |
+| Modern iOS App Exploitation with Swaroop Yermalkar | 1 Day | Mon | $850 |
+| Modern Android App Exploitation with Arun Thomas | 1 Day | Tue | $850 |
+| Defending Golang with Mike Doyle (Synopsys) | 1 Day | Tue | $850 |
 
 ## Conference Program
 
