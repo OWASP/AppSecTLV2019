@@ -8,7 +8,8 @@ footer {
 		position: relative;
 		width: 5em;
 		height: 4em;
-		background: url(../images/CoC-button.png) top right no-repeat;
+		background: url(../images/CoC-button.png) top no-repeat;
+		background-position: top center;
 		display: block;
 		z-index: 2;
 	}
