@@ -1,5 +1,5 @@
 ---
-title: Registration Locals
+title: Registration Form For Locals
 ---
 
 [CLICK HERE](https://knasim.herokuapp.com/owasp2019/Locals/register) TO REGISTER
