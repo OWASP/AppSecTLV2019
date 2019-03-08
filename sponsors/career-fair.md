@@ -15,6 +15,9 @@ Package includes:
 * Company logo in printed conference brochure (if time permits)
 * Company logo on official Global AppSec Tel Aviv 2019 Career Fair event page
 
+Rate Global AppSec Tel Aviv event table: $675  
+General rate: $975
+
 Space is limited. Tables are on a first come first server basis. If you are interested, please conact [Kelly Santalucia](mailto:kelly.santalucia@owasp.org).
 
 </section>
