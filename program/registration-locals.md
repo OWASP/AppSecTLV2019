@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Registration Locals
 ---
 
 [CLICK HERE](https://knasim.herokuapp.com/owasp2019/Locals/register) TO REGISTER
@@ -54,3 +54,5 @@ There are several registration options:
 *	Vendor discounts are available, email Kelly for details.
 *	Tickets / Conference Registration and Training Registration are nonrefundable and nontransferable.
 * OWASP is not responsible for any additional foreign transaction fees related to the processing of the registration.
+
+<iframe src="https://docs.google.com/spreadsheets/d/1jAnvYpRmNu8BISIrkYGTLolOTmlCoKLbuHVWzCXJSY4/pubhtml?widget=true&amp;headers=false"></iframe>
