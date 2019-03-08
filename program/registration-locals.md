@@ -13,17 +13,12 @@ The event offers attendees three, _three, two or one day_ intense training cours
 | Advanced Web Hacking with Dhruv Shah and Sunil Yadav (NotSoSecure)  | 3 Days | Sun/Mon/Tue | $2400 |
 | Attacking and Defending Containerized Apps <br> and Serverless Tech with Nithin Jois (we45) | 3 Days | Sun/Mon/Tue | $2400 |
 | DevSecOps MasterClass with Abhay Bhargav (we45) | 3 Days | Sun/Mon/Tue | $2400 |
-| Advanced Whiteboard hacking – aka hands-on | 2 Days | Mon/Tue | $1650 |
-| Threat Modeling with Steven Wierckx (Toreon) | | |  |
-| An Introduction to Hacking Blockchain | 2 Days | Mon/Tue | $1650 |
-| Applications and Smart Contracts with Mick Ayzenberg (Security Innovation) |  |  |  |
+| Advanced Whiteboard hacking – aka hands-on <br> Threat Modeling with Steven Wierckx (Toreon) | 2 Days | Mon/Tue | $1650 |
+| An Introduction to Hacking Blockchain <br> Applications and Smart Contracts with Mick Ayzenberg (Security Innovation) | 2 Days | Mon/Tue | $1650 |
 | Hands-on Secure Coding in Node.js with Chetan Karande | 2 Days | Mon/Tue | $1650 |
-| Mastering Secure coding and web-application | 2 Days | Mon/Tue | $1650 |
-| security testing with Glenn ten Cate (DefDev.eu) |  | | |
-| Program Building: Navigating Your First | 2 Days | Mon/Tue | $1650 |
-| Year As A First Time CISO with Robert Wood |  |  |  |
-| Seth & Ken’s Excellent Adventures (in Code Review) | 2 Days | Mon/Tue | $1650 |
-| with Ken Johnson and Seth Law |  | |  |
+| Mastering Secure coding and web-application <br> security testing with Glenn ten Cate (DefDev.eu) | 2 Days | Mon/Tue | $1650 |
+| Program Building: Navigating Your First <br> Year As A First Time CISO with Robert Wood | 2 Days | Mon/Tue | $1650 |
+| Seth & Ken’s Excellent Adventures (in Code Review) <br> with Ken Johnson and Seth Law | 2 Days | Mon/Tue | $1650 |
 | Modern iOS App Exploitation with Swaroop Yermalkar | 1 Day | Mon | $850 |
 | Modern Android App Exploitation with Arun Thomas | 1 Day | Tue | $850 |
 | Defending Golang with Mike Doyle (Synopsys) | 1 Day | Tue | $850 |
@@ -36,14 +31,11 @@ There are several registration options:
 
 |   *Registration Type*    | *Fee* * | *Details* |  |
 |------------------------|:----:|:-------:|:-------:|
-| Non-Member Conference  | 2740 NIS | Includes conference program for two days, | Available Now |
-|                        |      | coffee breaks, lunch, expo, and conference dinner event ticket||
-| Member Conference      | 2530 NIS | Includes conference program for two days, | Available Now |
-|                        |      | coffee breaks, lunch, expo, and conference dinner event ticket ||
-| Student                | 530 NIS | Includes conference program for two days, | Available Now |
-|                        |      | coffee breaks, lunch, and expo. conference dinner event ticket is not included.||
-| Conference Dinner     | 530 NIS | Additional conference event tickets can be purchased. | Available Now |
-| Event Ticket Only      |      |||
+| Non-Member Conference  | 2740 NIS | Includes conference program for two days,<br> coffee breaks, lunch, expo, and conference dinner event ticket| Available Now |
+| Member Conference      | 2530 NIS | Includes conference program for two days,<br> coffee breaks, lunch, expo, and conference dinner event ticket| Available Now |
+| Student                | 530 NIS | Includes conference program for two days,<br> coffee breaks, lunch, and expo. <br>conference dinner event ticket is not included.| Available Now |
+| Conference Dinner <br>Event Ticket Only    | 530 NIS | Additional conference event tickets can be purchased. | Available Now |
+
 
 * Note: If you receive a discount code, select the registration category first, then enter the discount code and the fee will be modified based on the code.
 
