@@ -33,7 +33,7 @@ There are several registration options:
 |------------------------|:----:|:-------:|:-------:|
 | Non-Member Conference  | 2740 NIS | Includes conference program for two days,<br> coffee breaks, lunch, expo, and conference dinner event ticket| Available Now |
 | Member Conference      | 2530 NIS | Includes conference program for two days,<br> coffee breaks, lunch, expo, and conference dinner event ticket| Available Now |
-| Student                | 530 NIS | Includes conference program for two days,<br> coffee breaks, lunch, and expo. <br>conference dinner event ticket is not included.| Available Now |
+| Student                | 530 NIS  | Includes conference program for two days,<br> coffee breaks, lunch, and expo. <br>conference dinner event ticket is not included.| Available Now |
 | Conference Dinner <br>Event Ticket Only    | 530 NIS | Additional conference event tickets can be purchased. | Available Now |
 
 
@@ -45,5 +45,3 @@ There are several registration options:
 *	Vendor discounts are available, email Kelly for details.
 *	Tickets / Conference Registration and Training Registration are nonrefundable and nontransferable.
 * OWASP is not responsible for any additional foreign transaction fees related to the processing of the registration.
-
-<iframe src="https://docs.google.com/spreadsheets/d/1jAnvYpRmNu8BISIrkYGTLolOTmlCoKLbuHVWzCXJSY4/pubhtml?widget=true&amp;headers=false"></iframe>
