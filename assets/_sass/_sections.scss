@@ -29,6 +29,39 @@ section {
 		padding: 0em 4em 2em 4em;
 	}
 
+	a.registerbutton {
+		background: $medium;
+		border-radius: 10px;
+		border: 2px solid #fff;
+		box-shadow: 0px 2px 5px rgba(0,0,0,0.5);
+		color: #fff;
+		padding: 0.5em 1em;
+	}
+
+	table {
+		width: 100%;
+
+		thead {
+			background-color: $medium;
+			color: #fff;
+			font-weight: bold;
+			text-align: left;
+		}
+		th, td {
+			padding: 0.25em 0.5em;
+		}
+		td {
+			&.price { 
+				white-space: nowrap; 
+				text-align: right;
+			}
+		}
+		tr:nth-child(2n) {
+			background-color: $light;
+		}
+
+	}
+
  	&.inverse {
 		background-color: $medium;
 		color: #fff;
