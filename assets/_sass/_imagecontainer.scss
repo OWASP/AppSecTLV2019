@@ -1,0 +1,33 @@
+.image-container {
+	display: flex;
+	justify-content: space-around;
+
+	.image {
+		background-color: #444;
+		background-position: center center;
+		background-repeat: no-repeat;
+		position: relative;
+
+		img { visibility: hidden }
+
+		span {
+			position: absolute;
+			bottom: 0em;
+			left: 0;
+			background: rgba(0,0,0,0.5);
+			color: #fff;
+			width: 100%;
+			padding: 0.25em 0.5em;
+			display: block;
+		}
+	}
+}
+
+@media (max-width: 500px) {
+	.image-container {
+		display: block;
+		.image {
+			img { width: 100%; }
+		}
+	}
+}

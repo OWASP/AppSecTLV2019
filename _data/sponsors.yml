@@ -2,4 +2,7 @@
   sponsors:
   - logo: synopsys_color.jpg
     name: Synopsys
-    url: https://www.synopsys.com/software
+    url:  https://www.synopsys.com/software
+  - logo: checkmarx.svg
+    name: Checkmarx
+    url:  https://www.checkmarx.com/
