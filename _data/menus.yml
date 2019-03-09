@@ -1,5 +1,7 @@
 - title: Program
   items:
+  - title: Registration
+    url  : program/registration
   - title: Call for papers
     url  : program/call-for-papers
   - title: Call for trainings
