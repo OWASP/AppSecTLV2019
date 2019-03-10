@@ -6,7 +6,7 @@ title: Registration
 
 ## Training
 
-The event offers attendees three, _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv. Further information regarding the training program and how to book will be available shortly.
+The event offers attendees _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv. Further information regarding the training program and how to book will be available shortly.
 
 |   *Course title*    | *Length* | *Days* | *Cost* |
 |------------------------|:----:|:-------:|:-------:|:-------:|
