@@ -70,9 +70,9 @@
   days: Tue
   localprice: 3630 NIS
   price: $850
-  - title: Web Application Hacking with Burp Suite and OWASP ZAP (Women Only)
-    trainers: Vandana Verma
-    duration: 1 Day
-    days: Tue
-    localprice: FREE
-    price: FREE
+- title: Web Application Hacking with Burp Suite and OWASP ZAP (Women Only)
+  trainers: Vandana Verma
+  duration: 1 Day
+  days: Tue
+  localprice: FREE
+  price: FREE
