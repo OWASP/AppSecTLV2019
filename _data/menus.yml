@@ -1,7 +1,11 @@
+- title: Registration
+  items:
+  - title: International
+    url  : registration/
+  - title: Locals
+    url  : registration/registration-locals
 - title: Program
   items:
-  - title: Registration
-    url  : program/registration
   - title: Call for papers
     url  : program/call-for-papers
   - title: Call for trainings
