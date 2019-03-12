@@ -8,6 +8,10 @@
   items:
   - title: Call for papers
     url  : program/call-for-papers
+  - title: Capture The Flag
+    url  : program/capture-the-flag
+  - title: University Challenge
+    url  : program/university-challenge
   - title: Call for trainings
     url: program/call-for-trainings
 - title: Sponsor

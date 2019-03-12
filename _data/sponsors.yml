@@ -6,3 +6,8 @@
   - logo: checkmarx.svg
     name: Checkmarx
     url:  https://www.checkmarx.com/
+- type: Silver
+  sponsors:
+    - logo: htbridge.png
+      name: High-Tech Bridge
+      url:  https://www.htbridge.com/
