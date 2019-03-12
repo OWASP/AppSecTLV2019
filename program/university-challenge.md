@@ -6,7 +6,8 @@ The Global AppSec TLV 2019 University Challenge is being held in InterContinenta
 
 The University Challenge is a competition among teams comprised of university students that will be held on May 28th (Tuesday) 2019, during the training days of the conference. <br>There is no admission fee for the University Challenge – participation in the conference will be possible at a reduced student rate (information to follow).
 
-This traditional 1 day Capture the Flag event for teams from universities all around the world that is held every year as part of AppSec Europe who want to competitively practice their application security skills. <br>We will have 1 day of jeopardy style Capture The Flag (CTF), solving hacking challenges.
+This yearly one day Capture the Flag event, as part of Global AppSec, is for teams from universities all around the world who want to competitively practice their application security skills.
+We will have one day of jeopardy style Capture The Flag (CTF), solving hacking challenges.
 
 Prizes will be awarded to the top scoring teams.
 
