@@ -15,8 +15,8 @@ The event offers attendees _three, two or one day_ intense training courses by l
 	<tbody>
 {% for training in site.data.trainings %}
     <tr>
-    	<td><strong>{{training.title}}</strong> with {{training.trainers}} </td>
-    	<td>{{training.duration}} </td>
+    	<td><strong><a href="{{training.url}}">{{training.title}}</a></strong> with {{training.trainers}} </td>
+     	<td>{{training.duration}} </td>
     	<td>{{training.days | replace: "/", "/<wbr>"}} </td>
     	<td class="price">{{training.localprice}}</td>
     </tr>
