@@ -1,15 +1,18 @@
 - title: Advanced Web Hacking
+  url: https://globalappsectelaviv2019.sched.com/event/MCpK/advanced-web-hacking
   trainers: Dhruv Shah and Sunil Yadav (NotSoSecure)
   duration: 3 Days
   days: Sun/Mon/Tue
   localprice: 10250 NIS
   price: $2400
 - title: Attacking and Defending Containerized Apps  and Serverless Tech
+  url: https://globalappsectelaviv2019.sched.com/event/MCoZ/attacking-and-defending-containerized-apps-and-serverless-tech
   trainers: Nithin Jois (we45)
   duration: 3 Days
   days: Sun/Mon/Tue
   localprice: 10250 NIS
   price: $2400
+  url: https://globalappsectelaviv2019.sched.com/event/MCq1/devsecops-masterclass
 - title: DevSecOps MasterClass
   trainers: Abhay Bhargav (we45)
   duration: 3 Days
@@ -17,60 +20,70 @@
   localprice: 10250 NIS
   price: $2400
 - title: Advanced Whiteboard hacking – aka hands-on  Threat Modeling
+  url: https://globalappsectelaviv2019.sched.com/event/MEj7/advanced-whiteboard-hacking-aka-hands-on-threat-modeling
   trainers: Steven Wierckx (Toreon)
   duration: 2 Days
   days: Mon/Tue
   localprice: 7050 NIS
   price: $1650
 - title: An Introduction to Hacking Blockchain  Applications and Smart Contracts
+  url: https://globalappsectelaviv2019.sched.com/event/MCmH/an-introduction-to-hacking-blockchain-applications-and-smart-contracts
   trainers: Mick Ayzenberg (Security Innovation)
   duration: 2 Days
   days: Mon/Tue
   localprice: 7050 NIS
   price: $1650
 - title: Hands-on Secure Coding in Node.js
+  url: https://globalappsectelaviv2019.sched.com/event/MEiF/hands-on-secure-coding-in-nodejs
   trainers: Chetan Karande
   duration: 2 Days
   days: Mon/Tue
   localprice: 7050 NIS
   price: $1650
-- title: Mastering Secure coding and web-application  security testing
-  trainers: Glenn ten Cate (DefDev.eu)
+- title: Mastering Secure coding and web-application security testing
+  url: https://globalappsectelaviv2019.sched.com/event/MCvd/mastering-secure-coding-and-web-application-security-testing
+  trainers: Glenn ten Cate (defdev.eu)
   duration: 2 Days
   days: Mon/Tue
   localprice: 7050 NIS
   price: $1650
 - title: "Program Building: Navigating Your First  Year As A First Time CISO"
+  url: https://globalappsectelaviv2019.sched.com/event/MCP0/program-building-navigating-your-first-year-as-a-first-time-ciso
   trainers: Robert Wood
   duration: 2 Days
   days: Mon/Tue
   localprice: 7050 NIS
   price: $1650
 - title: Seth & Ken’s Excellent Adventures (in Code Review)
+  url: https://globalappsectelaviv2019.sched.com/event/MCul/seth-kens-excellent-adventures-in-code-review
   trainers: Ken Johnson and Seth Law
   duration: 2 Days
   days: Mon/Tue
   localprice: 7050 NIS
   price: $1650
 - title: Modern iOS App Exploitation
+  url: https://globalappsectelaviv2019.sched.com/event/MEnz/modern-ios-app-exploitation
   trainers: Swaroop Yermalkar
   duration: 1 Day
   days: Mon
   localprice: 3630 NIS
   price: $850
 - title: Modern Android App Exploitation
+  url: https://globalappsectelaviv2019.sched.com/event/MEm0/modern-android-app-exploitation
   trainers: Arun Thomas
   duration: 1 Day
   days: Tue
   localprice: 3630 NIS
   price: $850
 - title: Defending Golang
+  url: https://globalappsectelaviv2019.sched.com/event/MEkV/defending-golang
   trainers: Mike Doyle (Synopsys)
   duration: 1 Day
   days: Tue
   localprice: 3630 NIS
   price: $850
 - title: Web Application Hacking with Burp Suite and OWASP ZAP (Women Only)
+  url: https://globalappsectelaviv2019.sched.com/event/MLSU/web-application-hacking-with-burp-suite-and-owasp-zap-free-woman-only
   trainers: Vandana Verma
   duration: 1 Day
   days: Tue
