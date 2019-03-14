@@ -55,11 +55,11 @@ There are several registration options:
     <tr>
       <td>Student</td>
       <td class="price">535 NIS</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, and expo. conference dinner event ticket is not included.</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, and expo. <b>conference dinner event ticket is not included</b>.</td>
       <td>Available Now</td>
     </tr>
     <tr>
-      <td>Conference Dinner Event Ticket Only</td>
+      <td>Networking Event Ticket Only</td>
       <td class="price">535 NIS</td>
       <td>Additional conference event tickets can be purchased.</td>
       <td>Available Now</td>
@@ -72,6 +72,7 @@ There are several registration options:
 
 *	Student Tickets – Students must present a valid student ID and proof of affiliation at an accredited university to pick up the ticket (Limited tickets available).
 *	No refunds or replacements for loss of badge
+* Prices include VAT
 *	Groups discounts are available for 10+ ticket batches
 *	Vendor discounts are available, email Kelly for details.
 *	Tickets / Conference Registration and Training Registration are nonrefundable and nontransferable.

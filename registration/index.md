@@ -56,11 +56,11 @@ There are several registration options:
     <tr>
       <td>Student</td>
       <td class="price">$125</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, and expo. conference dinner event ticket is not included.</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, and expo. <b>conference dinner event ticket is not included</b>.</td>
       <td>Available Now</td>
     </tr>
     <tr>
-      <td>Conference Dinner Event Ticket Only</td>
+      <td>Networking Event Ticket Only</td>
       <td class="price">$125</td>
       <td>Additional conference event tickets can be purchased.</td>
       <td>Available Now</td>
@@ -75,7 +75,7 @@ There are several registration options:
 *	Groups discounts are available for 10+ ticket batches
 *	Vendor discounts are available, email Kelly for details.
 *	Tickets / Conference Registration and Training Registration are nonrefundable and nontransferable.
-*	Please note the fees listed are in US Dollars, however your credit card will be processed in your local currency based on most current currency exchange rate, and you may be charged a foreign transaction fee by your credit card company.
+*	Please note that the fees listed above are in US Dollars and you will be charged in that currency.
 
 *OWASP is not responsible for any additional foreign transaction fees related to the processing of the registration.
-Participants from Israel will be charged in Shekels plus 175 VAT according to the rate of exchange on the day of payment.*
+Participants from Israel will be charged in Shekels plus 17% VAT according to the rate of exchange on the day of payment.*
