@@ -44,13 +44,13 @@ There are several registration options:
     <tr>
       <td>Non-Member Conference</td>
       <td class="price">$650</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, expo, and Networking dinner event ticket</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking dinner event ticket</td>
       <td>Available Now</td>
     </tr>
     <tr>
       <td>Member Conference</td>
       <td class="price">$600</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, expo, and Networking dinner event ticket</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking dinner event ticket</td>
       <td>Available Now</td>
     </tr>
     <tr>
