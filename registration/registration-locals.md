@@ -4,6 +4,8 @@ title: Registration For Locals
 
 <a class="registerbutton" href="https://knasim.herokuapp.com/owasp2019/Locals/register">Register now</a>
 
+<a class="registerbutton" href="/registration/index">Visitors registration page</a>
+
 ## Training
 
 The event offers attendees _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv. Further information regarding the training program and how to book will be available shortly.
@@ -77,3 +79,5 @@ There are several registration options:
 *	Vendor discounts are available, email Kelly for details.
 *	Tickets / Conference Registration and Training Registration are nonrefundable and nontransferable.
 * OWASP is not responsible for any additional foreign transaction fees related to the processing of the registration.
+
+<a class="registerbutton" href="https://knasim.herokuapp.com/owasp2019/Locals/register">Register now</a>
