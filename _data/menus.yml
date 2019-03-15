@@ -6,6 +6,8 @@
     url  : registration/registration-locals
 - title: Program
   items:
+  - title: Women in AppSec
+    url  : program/women-in-appsec
   - title: Call for papers
     url  : program/call-for-papers
   - title: Capture The Flag

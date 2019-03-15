@@ -4,6 +4,8 @@ title: Registration
 
 <a class="registerbutton" href="https://knasim.herokuapp.com/owasp2019/register">Register now</a>
 
+<a class="registerbutton" href="/registration/registration-locals">Locals registration page</a>
+
 ## Training
 
 The event offers attendees _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv. Further information regarding the training program and how to book will be available shortly.
@@ -44,23 +46,23 @@ There are several registration options:
     <tr>
       <td>Non-Member Conference</td>
       <td class="price">$650</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, expo, and conference dinner event ticket</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking dinner event ticket</td>
       <td>Available Now</td>
     </tr>
     <tr>
       <td>Member Conference</td>
       <td class="price">$600</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, expo, and conference dinner event ticket</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking dinner event ticket</td>
       <td>Available Now</td>
     </tr>
     <tr>
       <td>Student</td>
       <td class="price">$125</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, and expo. conference dinner event ticket is not included.</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, and expo. <strong>Networking dinner event ticket is not included</strong>.</td>
       <td>Available Now</td>
     </tr>
     <tr>
-      <td>Conference Dinner Event Ticket Only</td>
+      <td>Networking dinner Ticket Only</td>
       <td class="price">$125</td>
       <td>Additional conference event tickets can be purchased.</td>
       <td>Available Now</td>
@@ -75,7 +77,9 @@ There are several registration options:
 *	Groups discounts are available for 10+ ticket batches
 *	Vendor discounts are available, email Kelly for details.
 *	Tickets / Conference Registration and Training Registration are nonrefundable and nontransferable.
-*	Please note the fees listed are in US Dollars, however your credit card will be processed in your local currency based on most current currency exchange rate, and you may be charged a foreign transaction fee by your credit card company.
+*	Please note that the fees listed above are in US Dollars and you will be charged in that currency.
 
 *OWASP is not responsible for any additional foreign transaction fees related to the processing of the registration.
-Participants from Israel will be charged in Shekels plus 175 VAT according to the rate of exchange on the day of payment.*
+Participants from Israel will be charged in Shekels plus 17% VAT according to the rate of exchange on the day of payment.*
+
+<a class="registerbutton" href="https://knasim.herokuapp.com/owasp2019/register">Register now</a>

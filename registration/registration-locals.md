@@ -4,6 +4,8 @@ title: Registration For Locals
 
 <a class="registerbutton" href="https://knasim.herokuapp.com/owasp2019/Locals/register">Register now</a>
 
+<a class="registerbutton" href="/registration/index">Visitors registration page</a>
+
 ## Training
 
 The event offers attendees _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv. Further information regarding the training program and how to book will be available shortly.
@@ -43,23 +45,23 @@ There are several registration options:
     <tr>
       <td>Non-Member Conference</td>
       <td class="price">2775 NIS</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, expo, and conference dinner event ticket</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking dinner event ticket</td>
       <td>Available Now</td>
     </tr>
     <tr>
       <td>Member Conference</td>
       <td class="price">2565 NIS</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, expo, and conference dinner event ticket</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking dinner event ticket</td>
       <td>Available Now</td>
     </tr>
     <tr>
       <td>Student</td>
       <td class="price">535 NIS</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, and expo. conference dinner event ticket is not included.</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, and expo. <strong>Networking dinner event ticket is not included</strong>.</td>
       <td>Available Now</td>
     </tr>
     <tr>
-      <td>Conference Dinner Event Ticket Only</td>
+      <td>Networking dinner Ticket Only</td>
       <td class="price">535 NIS</td>
       <td>Additional conference event tickets can be purchased.</td>
       <td>Available Now</td>
@@ -72,7 +74,10 @@ There are several registration options:
 
 *	Student Tickets – Students must present a valid student ID and proof of affiliation at an accredited university to pick up the ticket (Limited tickets available).
 *	No refunds or replacements for loss of badge
+* Prices include VAT
 *	Groups discounts are available for 10+ ticket batches
 *	Vendor discounts are available, email Kelly for details.
 *	Tickets / Conference Registration and Training Registration are nonrefundable and nontransferable.
 * OWASP is not responsible for any additional foreign transaction fees related to the processing of the registration.
+
+<a class="registerbutton" href="https://knasim.herokuapp.com/owasp2019/Locals/register">Register now</a>
