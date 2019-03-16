@@ -1,9 +1,5 @@
 - title: Registration
-  items:
-  - title: International
-    url  : registration/
-  - title: Locals
-    url  : registration/registration-locals
+  url  : registration/
 - title: Program
   items:
   - title: Women in AppSec
