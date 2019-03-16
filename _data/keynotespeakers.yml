@@ -1,4 +1,4 @@
-- image: portraite-MichalBl
+- image: portraite-MichalBl.jpg
   name: Michal Braverman-Blumenstyk
   title: CTO - Cloud and AI Security, Microsoft
   bio: Michal Braverman-Blumenstyk is the CTO of Cloud and AI Security division, Microsoft. Michal and team
@@ -21,7 +21,7 @@
         University.
   subject:  The Importance of the Cloud and the Developers Communities in Fighting Cybercrime
   abstract:
-- image: astha2
+- image: astha2.JPG
   name: Astha Singhal
   title: Engineering Manager, Application Security, Netflix
   bio: Astha Singhal leads the Application Security team at Netflix that is responsible for securing all the applications in Netflix's cloud infrastructure. Prior to this, she managed product security for the Salesforce AppExchange and other core Salesforce products. She is a security engineer by qualification who is passionate about proactive security and developer enablement. She is also an active member of the Bay Area security community as an organizer of conferences like AppSec USA and   BSidesSF.
