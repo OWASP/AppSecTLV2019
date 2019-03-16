@@ -2,6 +2,8 @@
   url  : registration/
 - title: Program
   items:
+  - title: Keynotes
+    url  : program/keynotes
   - title: Women in AppSec
     url  : program/women-in-appsec
   - title: Call for papers
