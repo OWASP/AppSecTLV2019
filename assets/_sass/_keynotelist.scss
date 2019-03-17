@@ -1,10 +1,14 @@
 
 section.keynotes-front {
+	margin: 0em;
+	padding: 0em;
 	ul {
 		display: flex;
 		justify-content: center;
+		margin: 0em;
+		padding: 0em;
 	}
-	li {
+	a {
 		list-style-type: none !important;
 		width: 250px;
 		height: 250px;
@@ -38,7 +42,7 @@ div.keynote-full {
 
 @media (max-width: 500px) {
 	section.keynotes-front {
-		li {
+		a {
 			width: 150px;
 			height: 150px;
 		}
