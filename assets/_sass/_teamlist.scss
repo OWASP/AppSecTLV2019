@@ -1,7 +1,5 @@
 
 section.team-list {
-	margin: 0px -25px;
-
 	ul {
 		display: flex;
 		flex-wrap: wrap;
@@ -9,9 +7,6 @@ section.team-list {
 		padding: 1em 0em;
 		justify-content: space-between;
 
-		h4 {
-			color: $light;
-		}
 
 		&:after {
 			content: "";
@@ -23,6 +18,7 @@ section.team-list {
 			width: 200px;
 			text-align: center;
 			padding-bottom: 1em;
+			list-style: none;
 
 			div {
 				margin: 0 auto;

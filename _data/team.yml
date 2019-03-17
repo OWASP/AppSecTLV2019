@@ -24,7 +24,7 @@ conferenceteam:
     role: Web site
     image: erlend.jpg
 staff: 
- - name: Mike McCamon 
+  - name: Mike McCamon 
     role: Executive Director
     image: mikem.jpg
   - name: Harold Blankenship
@@ -38,7 +38,7 @@ staff:
     image: Lisa-Jones.jpg
   - name: Matt Tesauro
     role: Director of Community and Operations 
-    image: MattT.jpg
+    image: Matt-Tesauro-150x150.png
   - name: Dawn Aitken
     role: Community Manager
     image: Dawn_picture_2.jpg
