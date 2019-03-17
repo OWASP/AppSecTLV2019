@@ -1,12 +1,29 @@
-- image: 
+- image: portraite-MichalBl.jpg
   name: Michal Braverman-Blumenstyk
   title: CTO - Cloud and AI Security, Microsoft
-  bio:
-  subject: 
+  bio: Michal Braverman-Blumenstyk is the CTO of Cloud and AI Security division, Microsoft. Michal and team
+        are driving the Microsoft security strategy and innovation. Prior to her promotion to CTO in September
+        2017, Michal was the Azure Cybersecurity GM where among other achievements, she initiated and
+        managed Azure Security Center, Microsoft&#39;s leading hybrid security SaaS. Michal is a world-class expert
+        in Cyber Security and a renowned speaker.
+
+        Prior to joining Microsoft in November 2013, Michal worked at RSA/EMC (now Dell). Michal came to RSA
+        via the Cyota acquisition in 2006. Following the acquisition, she became the GM of RSA Israel and the
+        global leader of the Cyber Fraud and Risk Analytics product line. Under Michal’s leadership, the
+        revenues of the Fraud and Risk Analytics product line grew 20-fold (to over $200M) and the number of
+        protected users worldwide reached 300M. Michal was later appointed as the GM of RSA Global
+        Solutions and was tasked with business-driven innovation.
+        At Cyota, an innovative Cyber startup, Michal served as the COO, leading the R&amp;D, product management
+        and the Anti-Fraud array of services. Prior to Cyota, Michal served in several senior management
+        positions in Israeli and Global companies.
+        Michal holds a M.Sc. in Computer Science from Columbia University in New York (Summa Cum Laude)
+        and graduated the Top Executive program at the Recanati Graduate school of Business at Tel Aviv
+        University.
+  subject:  The Importance of the Cloud and the Developers Communities in Fighting Cybercrime
   abstract:
-- image: 
-  name: Astha Singhal 
-  title: Director of AppSec, Netflix
-  bio:
-  subject: 
+- image: astha2.JPG
+  name: Astha Singhal
+  title: Engineering Manager, Application Security, Netflix
+  bio: Astha Singhal leads the Application Security team at Netflix that is responsible for securing all the applications in Netflix's cloud infrastructure. Prior to this, she managed product security for the Salesforce AppExchange and other core Salesforce products. She is a security engineer by qualification who is passionate about proactive security and developer enablement. She is also an active member of the Bay Area security community as an organizer of conferences like AppSec USA and   BSidesSF.
+  subject:
   abstract:
