@@ -20,6 +20,9 @@ conferenceteam:
   - name: Yigal Elefant
     role: Organizing Committee
     image: yigale.jpg
+  - name: Erlend Oftedal
+    role: Web site
+    image: erlend.jpg
 staff: 
  - name: Mike McCamon 
     role: Executive Director
