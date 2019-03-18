@@ -4,8 +4,10 @@
   items:
   - title: Keynotes
     url  : program/keynotes
-  - title: Program
+  - title: Full program
     url  : program/
+  - title: Trainings
+    url  : program/trainings
   - title: Women in AppSec
     url  : program/women-in-appsec
   - title: Call for papers
