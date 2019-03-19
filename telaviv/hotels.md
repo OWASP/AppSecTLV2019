@@ -14,10 +14,6 @@ Target Conferences is the official travel agent for the Conference and are offer
 
 [CLICK HERE](https://knasim.herokuapp.com/owasp2019/register) TO BOOK YOUR ACCOMMODATION
 
-**The travel agent is not mandatory, and of course, you're free to directly book your own hotel.**
-
-Next to these hotels, there are a lot of [AirBnB's](https://www.airbnb.com) in the area.
-
 ### Intercontinental David Tel Aviv Hotel (Conference Venue)
 Kaufmann St 12, Tel Aviv-Yafo, 61501
 
