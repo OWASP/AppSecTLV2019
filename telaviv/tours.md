@@ -113,7 +113,7 @@ Walk into the narrow canyon that leads to the red rock. Visit the treasury, roya
 After the visit, stop for lunch. Drive though Aqaba for a short panoramic tour before back to the Arava border crossing.
 Return to Eilat for your evening flight back to Tel Aviv.
 
-**Rate per person: US$ 388**
+**Rate per person: US$ 410**
 
 <div class="image-container">
 	{% include img.html src="tours/Tour_D_PETRA_1.jpg" alt="Petra, Jordan" %}
