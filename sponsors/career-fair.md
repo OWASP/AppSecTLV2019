@@ -11,11 +11,11 @@ layout: multisection
 The Global AppSec TelAviv 2019 Career Fair is open to any company who is looking to hire new talent. The Career Fair will run for 3 hours during the last day of the session portion of the conference.
 
 Package includes:
-* 1.2m (4") skrited table and 2 chairs 
+* 1.2m (4') skirted table and 2 chairs 
 * Company logo in printed conference brochure (if time permits)
 * Company logo on official Global AppSec Tel Aviv 2019 Career Fair event page
 
-Rate Global AppSec Tel Aviv event table: $675  
+Rate for companies already sponsoring the conference: $675  
 General rate: $975
 
 Space is limited. Tables are on a first come first server basis. If you are interested, please conact [Kelly Santalucia](mailto:kelly.santalucia@owasp.org).
