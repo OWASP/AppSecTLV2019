@@ -111,24 +111,6 @@ Check-in: 15:00
 Check-out: 12:00
 
 </section>
-<section markdown="1">
-### Renaissance Hotel
-HaYarkon St 121, Tel Aviv-Yafo, 63453
-*27 minutes walk from the conference hotel or a short taxi ride*
-
-|   Room Type   | Single | Double |
-|---------------|:------:|:------:|
-| Standard Room |  $310  |  $325  |
-
-*Rates are per room, per night, including breakfast.*
-
-![alt text](../assets/images/hotels/Renaissance_Hotel_1.jpg "Renaissance Hotel")
-
-**Official check-in and check-out times:**  
-Check-in: 15:00  
-Check-out: 12:00
-
-</section>
 <section class="inverse" markdown="1">
 ## Contact
 For any questions concerning accommodations and tours, please feel free to contact:  
