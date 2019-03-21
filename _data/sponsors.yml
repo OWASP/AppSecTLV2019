@@ -6,6 +6,9 @@
   - logo: checkmarx.svg
     name: Checkmarx
     url:  https://www.checkmarx.com/
+  - logo: symantec.svg
+    name: Symantec
+    url:  https://www.symantec.com/
 - type: Silver
   sponsors:
     - logo: htbridge.png
