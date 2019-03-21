@@ -12,13 +12,13 @@
   days: Sun/Mon/Tue
   localprice: 10250 NIS
   price: $2400
-  url: https://globalappsectelaviv2019.sched.com/event/MCq1/devsecops-masterclass
 - title: DevSecOps MasterClass
   trainers: Abhay Bhargav (we45)
   duration: 3 Days
   days: Sun/Mon/Tue
   localprice: 10250 NIS
   price: $2400
+  url: https://globalappsectelaviv2019.sched.com/event/MCq1/devsecops-masterclass
 - title: Advanced Whiteboard hacking – aka hands-on  Threat Modeling
   url: https://globalappsectelaviv2019.sched.com/event/MEj7/advanced-whiteboard-hacking-aka-hands-on-threat-modeling
   trainers: Steven Wierckx (Toreon)
@@ -40,8 +40,8 @@
   days: Mon/Tue
   localprice: 7050 NIS
   price: $1650
-- title: Mastering Secure coding and web-application security testing
-  url: https://globalappsectelaviv2019.sched.com/event/MCvd/mastering-secure-coding-and-web-application-security-testing
+- title: Mastering Holistic Application Security
+  url: https://globalappsectelaviv2019.sched.com/event/MCvd/mastering-holistic-application-security
   trainers: Glenn ten Cate (defdev.eu)
   duration: 2 Days
   days: Mon/Tue

@@ -4,6 +4,10 @@
   items:
   - title: Keynotes
     url  : program/keynotes
+  - title: Full program
+    url  : program/
+  - title: Trainings
+    url  : program/trainings
   - title: Women in AppSec
     url  : program/women-in-appsec
   - title: Call for papers
@@ -12,8 +16,6 @@
     url  : program/capture-the-flag
   - title: University Challenge
     url  : program/university-challenge
-  - title: Call for trainings
-    url: program/call-for-trainings
 - title: Sponsor
   items:
   - title: Sponsoring
