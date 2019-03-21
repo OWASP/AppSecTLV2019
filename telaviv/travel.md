@@ -14,7 +14,7 @@ layout: multisection
 
 ### Flights
 
-Direct flights exist from most major airports in North America, Europe, India, China, Thailand and Africa, by El Al Israel Airlines as well as by other international carriers. It is recommended to book your international air travel to/from Ben Gurion International Airport (Tel Aviv) with your local travel agent and/or on the internet. 
+Direct flights exist from most major airports in North America, Europe, India, China, Thailand and Africa, by El Al Israel Airlines as well as by other international carriers. It is recommended to book your international air travel to/from Ben Gurion International Airport (Tel Aviv) with your local travel agent and/or on the internet.
 The airport is located approximately 35 mins drive from the Conference venue.
 
 ### Transportation from Ben-Gurion Airport to the Conference venue (Tel Aviv)
@@ -69,6 +69,8 @@ Israel is at UTC+02:00 zone.
 ## Electricity
 
 The electrical power supply “voltage” in Israel is: 220-240 Volts (U.S./Canada: 110-120 Volts)
+I.E [Israel SI32 (Type H)](https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#Israel_SI32_(Type_H))
+[Europlug](https://en.wikipedia.org/wiki/Europlug)
 
 ## Important Notes
 
