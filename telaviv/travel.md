@@ -69,8 +69,7 @@ Israel is at UTC+02:00 zone.
 ## Electricity
 
 The electrical power supply “voltage” in Israel is: 220-240 Volts (U.S./Canada: 110-120 Volts)
-I.E [Israel SI32 (Type H)](https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#Israel_SI32_(Type_H))
-[Europlug](https://en.wikipedia.org/wiki/Europlug)
+* I.E [Israel SI32 (Type H)](https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#Israel_SI32_(Type_H)), [Europlug](https://en.wikipedia.org/wiki/Europlug)
 
 ## Important Notes
 
