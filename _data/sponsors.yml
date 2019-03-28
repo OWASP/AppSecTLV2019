@@ -9,6 +9,9 @@
   - logo: symantec.svg
     name: Symantec
     url:  https://www.symantec.com/
+  - logo: whitesource.png
+    name: White Source
+    url:  https://www.whitesourcesoftware.com/
 - type: Silver
   sponsors:
     - logo: htbridge.png
