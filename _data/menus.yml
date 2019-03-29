@@ -23,6 +23,7 @@
   - title: Career Fair
     url  : sponsors/career-fair
 - title: Tel Aviv
+  url  : telaviv/
   items:
   - title: Venue
     url  : telaviv/venue
@@ -32,6 +33,8 @@
     url  : telaviv/hotels
   - title: Tours
     url  : telaviv/tours
+  - title: Things To Do
+    url  : telaviv/things-to-do
 - title: About
   items:
   - title: Code of Conduct
