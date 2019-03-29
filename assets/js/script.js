@@ -1,15 +1,18 @@
 window.addEventListener("load", function() {
-	var counter = document.getElementById("counter");
-	var days = counter.childNodes[1]; 
-	var hours = counter.childNodes[2]; 
-	var minutes = counter.childNodes[3]; 
-	var seconds = counter.childNodes[4]; 
-	var targetDate = new Date("2019-05-26");
-	setInterval(function() {
-		var timespan = (targetDate.getTime() - Date.now()) / 1000;
-		days.setAttribute("data-content", Math.floor(timespan / (24*60*60)));
-		hours.setAttribute("data-content", Math.floor(timespan / (60*60) % 24));
-		minutes.setAttribute("data-content", Math.floor(timespan / 60 % 60));
-		seconds.setAttribute("data-content", Math.floor(timespan % 60));
-	}, 1000);
+
+
+/*
+	document.querySelectorAll("img").forEach(function(img) {
+		var d = document.createElement("div");
+		d.className="image-container";
+		img.parentNode.insertBefore(d, img);
+		img.parentNode.removeChild(img);
+		d.appendChild(img);
+		var t = document.createElement("span");
+		t.textContent = img.title;
+		d.appendChild(t)
+	});
+*/
 }, false);
+
+

@@ -10,6 +10,7 @@
 @import "keynotelist";
 @import "supporters";
 @import "sponsors";
+@import "imagecontainer";
 
 
 
@@ -87,8 +88,9 @@ strong {
 }
 
 
-
-
+img {
+	max-width: 100%;
+}
 
 
 

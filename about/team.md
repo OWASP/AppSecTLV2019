@@ -1,11 +1,11 @@
 ---
-title: The conference teams
+title: The conference team
 layout: multisection
 ---
 
 
 <section class="team-list">
-	<h1>The Team</h1>
+	<h2>Organizing Committee</h2>
 	<ul >
 	{% for member in site.data.team.conferenceteam %}
 	<li>
@@ -17,7 +17,7 @@ layout: multisection
 	</ul>
 </section>
 <section class="team-list">
-	<h1>OWASP Staff</h1>
+	<h2>OWASP Staff</h2>
 	<ul>
 	{% for member in site.data.team.staff %}
 	<li>

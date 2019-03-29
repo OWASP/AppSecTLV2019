@@ -1,48 +1,47 @@
 conferenceteam:
-  - name:
-    role:
-    title: 
-    image:
-  - name:
-    role:
-    title: 
-    image:
-  - name:
-    role:
-    title: 
-    image:
-  - name:
-    role:
-    title: 
-    image:
-  - name:
-    role:
-    title: 
-    image:
-  - name:
-    role:
-    title: 
-    image:
-  - name:
-    role:
-    title: 
-    image:
+  - name: Avi Douglen
+    role: Conference Co-Chair
+    image: avi_douglen.png
+  - name: Ofer Maor
+    role: Conference Co-Chair
+    image: ofer_maor.jpg
+  - name: Shira Shamban
+    role: CFP Committee Chair
+    image: shiras.jpg
+  - name: Yossi Oren
+    role: CFT Committee Co-Chair
+    image: dr_yossi_oren.jpg
+  - name: Josh Grossman
+    role: CFT Committee Co-Chair
+    image: joshg.jpg
+  - name: Ori Troyna
+    role: Organizing Committee
+    image: orit.gif
+  - name: Or Katz
+    role: Organizing Committee
+    image: or_katz.jpg
+  - name: Yigal Elefant
+    role: Organizing Committee
+    image: yigale.jpg
+  - name: Erlend Oftedal
+    role: Web site
+    image: erlend.jpg
 staff: 
-  - name:
-    role:
-    image:
-  - name:
-    role:
-    image:
-  - name:
-    role:
-    image:
-  - name:
-    role:
-    image:
-  - name:
-    role:
-    image:
-  - name:
-    role:
-    image:
+  - name: Mike McCamon 
+    role: Executive Director
+    image: mikem.jpg
+  - name: Harold Blankenship
+    role: Director, Projects and Technology Support
+    image: HB_Profile.jpg
+  - name: Kelly Santalucia
+    role: Membership and Business Liaison
+    image: staff-kelly_santalucia.png
+  - name: Lisa Jones
+    role: Manager of Projects and Sponsorship
+    image: Lisa-Jones.jpg
+  - name: Matt Tesauro
+    role: Director of Community and Operations 
+    image: Matt-Tesauro-150x150.png
+  - name: Dawn Aitken
+    role: Community Manager
+    image: Dawn_picture_2.jpg

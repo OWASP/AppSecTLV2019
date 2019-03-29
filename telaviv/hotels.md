@@ -14,10 +14,6 @@ Target Conferences is the official travel agent for the Conference and are offer
 
 [CLICK HERE](https://knasim.herokuapp.com/owasp2019/register) TO BOOK YOUR ACCOMMODATION
 
-**The travel agent is not mandatory, and of course, you're free to directly book your own hotel.**
-
-Next to these hotels, there are a lot of [AirBnB's](https://www.airbnb.com) in the area.
-
 ### Intercontinental David Tel Aviv Hotel (Conference Venue)
 Kaufmann St 12, Tel Aviv-Yafo, 61501
 
@@ -105,24 +101,6 @@ HaYarkon St 79, Tel Aviv-Yafo
 *Rates are per room, per night, including breakfast.*
 
 ![alt text](../assets/images/hotels/Orchid_Tel_Aviv_1.jpg "Orchid Tel Aviv")
-
-**Official check-in and check-out times:**  
-Check-in: 15:00  
-Check-out: 12:00
-
-</section>
-<section markdown="1">
-### Renaissance Hotel
-HaYarkon St 121, Tel Aviv-Yafo, 63453
-*27 minutes walk from the conference hotel or a short taxi ride*
-
-|   Room Type   | Single | Double |
-|---------------|:------:|:------:|
-| Standard Room |  $310  |  $325  |
-
-*Rates are per room, per night, including breakfast.*
-
-![alt text](../assets/images/hotels/Renaissance_Hotel_1.jpg "Renaissance Hotel")
 
 **Official check-in and check-out times:**  
 Check-in: 15:00  

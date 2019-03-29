@@ -4,13 +4,15 @@ footer {
 	text-align: center;
 	padding: 1em;
 	clear: both;
+
 	.coc {
-		position: relative;
-		width: 5em;
-		height: 4em;
-		background: url(../images/CoC-button.png) top no-repeat;
-		background-position: top center;
-		display: block;
-		z-index: 2;
+		padding: 1em;
+		a {
+			border-radius: 5px;
+			border: 2px solid #fff;
+			box-shadow: 0px 2px 5px rgba(0,0,0,0.5);
+			color: #fff;
+			padding: 0.2em 0.5em;
+		}
 	}
 }

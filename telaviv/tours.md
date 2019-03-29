@@ -9,12 +9,13 @@ imageposition: center 33%
 
 Target Conferences is offering special post conference tours.
 Optional, tailor-made, private car tours can be arranged upon request.
+
 [CLICK HERE](https://knasim.herokuapp.com/owasp2019/register) TO BOOK TOURS OF ISRAEL
 
 </section>
 
 <section markdown="1">
-### Tour A - MASADA AND THE DEAD SEA
+### Tour A - **Masada and the Dead Sea**
 
 **One Day Sightseeing**  
 *Friday, May 31, 2019*
@@ -27,12 +28,14 @@ Expected return to the David Intercontinental Hotel about 18:30.
 
 **Rate per person: US$115**
 
-![alt text](../assets/images/tours/Tour_A_MASADA_1.jpg "MASADA AND THE DEAD SEA")
-![alt text](../assets/images/tours/Tour_A_MASADA_2.jpg "Photo credit: www.goisrael.com, by Itamar Grinberg")
+<div class="image-container">
+	{% include img.html src="tours/Tour_A_MASADA_1.jpg" alt="Masada and the dead sea" %}
+	{% include img.html src="tours/Tour_A_MASADA_2.jpg" alt="Masada, Photo credit: www.goisrael.com, by Itamar Grinberg" %}
+</div>
 
 </section>
 <section markdown="1">
-### Tour B - JERUSALEM - THE OLD & THE NEW
+### Tour B - **Jerusalem - The Old & the New**
 
 **One Day Sightseeing**  
 *Saturday, June 1, 2019*
@@ -46,12 +49,16 @@ Expected return to David Intercontinental Hotel by 17:00.
 
 **Rate per person: US$90**
 
-![alt text](../assets/images/tours/Tour_B_JERUSALEM_1.jpg "Photo credit: www.goisrael.com, by Noam Chen")
-![alt text](../assets/images/tours/Tour_B_JERUSALEM_2.jpg "Photo credit: www.goisrael.com, by Noam Chen")
+
+<div class="image-container">
+	{% include img.html src="tours/Tour_B_JERUSALEM_1.jpg" alt="Jerusalem, Photo credit: www.goisrael.com, by Noam Chen" %}
+	{% include img.html src="tours/Tour_B_JERUSALEM_2.jpg" alt="Jerusalem, Photo credit: www.goisrael.com, by Noam Chen" %}
+</div>
+
 
 </section>
 <section markdown="1">
-### Tour C - NAZARETH, TIBERIAS & SEA OF GALILEE
+### Tour C - Nazareth, Tiberias & Sea of Galilee
 
 **One Day Sightseeing**  
 *Sunday, June 2, 2019*
@@ -64,8 +71,10 @@ Drive along the Kineret lake to visit Capernaum and view the ruins of the ancien
 
 **Rate per person: US$90**
 
-![alt text](../assets/images/tours/Tour_C_NAZARETH_1.jpg "Photo credit: www.goisrael.com, by Dafna Tal")
-![alt text](../assets/images/tours/Tour_C_NAZARETH_2.jpg "Photo credit: www.goisrael.com")
+<div class="image-container">
+	{% include img.html src="tours/Tour_C_NAZARETH_1.jpg" alt="Nazareth, Photo credit: www.goisrael.com, by Dafna Tal" %}
+	{% include img.html src="tours/Tour_C_NAZARETH_2.jpg" alt="Nazareth, Photo credit: www.goisrael.com" %}
+</div>
 
 </section>
 <section markdown="1">
@@ -91,7 +100,7 @@ Should there be less than 15 participants per tour, alternative arrangements wil
 </section>
 <section markdown="1">
 
-### Tour D - PETRA, JORDAN
+### Tour D - Petra, Jordan
 
 **Full - One Day Sightseeing (Group tour in Petra)**  
 *Sunday, June 2, 2019*
@@ -104,10 +113,13 @@ Walk into the narrow canyon that leads to the red rock. Visit the treasury, roya
 After the visit, stop for lunch. Drive though Aqaba for a short panoramic tour before back to the Arava border crossing.
 Return to Eilat for your evening flight back to Tel Aviv.
 
-**Rate per person: US$ 388**
+**Rate per person: US$ 410**
 
-![alt text](../assets/images/tours/Tour_D_PETRA_1.jpg "PETRA, JORDAN")
-![alt text](../assets/images/tours/Tour_D_PETRA_2.jpg "PETRA, JORDAN")
+<div class="image-container">
+	{% include img.html src="tours/Tour_D_PETRA_1.jpg" alt="Petra, Jordan" %}
+	{% include img.html src="tours/Tour_D_PETRA_2.jpg" alt="Petra, Jordan" %}
+</div>
+
 
 **Rate for tour D includes:**
 
