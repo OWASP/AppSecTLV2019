@@ -20,3 +20,8 @@
     - logo: cyberark.png
       name: CyberArk
       url:  https://www.cyberark.com/
+- type: Badge
+  sponsors:
+    - logo: F5.svg
+      name: F5
+      url:  https://www.f5.com/
