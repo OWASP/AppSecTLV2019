@@ -1,5 +1,5 @@
 - type: Silver
   sponsors:
-	- name: CyberArk
-		logo: cyberark.png
-		url : https://careers.cyberark.com/search/?createNewAlert=false&q=&locationsearch=israel&optionsFacetsDD_customfield1=&optionsFacetsDD_city=&optionsFacetsDD_dept= 
+  - name: CyberArk
+    logo: cyberark.png
+    url : https://careers.cyberark.com/search/?createNewAlert=false&q=&locationsearch=israel&optionsFacetsDD_customfield1=&optionsFacetsDD_city=&optionsFacetsDD_dept= 
