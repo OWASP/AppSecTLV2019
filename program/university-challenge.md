@@ -20,5 +20,4 @@ This year the Global AppSec University Challenge will be limited to a maximum of
 
 Any questions, please contact [Adrian Winckles](mailto:Adrian.Winckles@owasp.org)
 
-Please can you submit your team details here:
-https://tinyurl.com/yypmckt4
+Please can you submit your team details [here](https://tinyurl.com/yypmckt4)
