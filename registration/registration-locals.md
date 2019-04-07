@@ -4,7 +4,7 @@ title: Registration For Locals
 
 <a class="registerbutton" href="https://knasim.herokuapp.com/owasp2019/Locals/register">Register now</a>
 
-*If you are an international visitor, please use the 
+*If you are an international visitor, please use the
 [registration page for international visitors](/registration/registration-international).*
 
 ## Training
@@ -46,23 +46,23 @@ There are several registration options:
     <tr>
       <td>Non-Member Conference</td>
       <td class="price">2775 NIS</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking dinner event ticket</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking event ticket</td>
       <td>Available Now</td>
     </tr>
     <tr>
       <td>Member Conference</td>
       <td class="price">2565 NIS</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking dinner event ticket</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking event ticket</td>
       <td>Available Now</td>
     </tr>
     <tr>
       <td>Student</td>
       <td class="price">535 NIS</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, and expo. <strong>Networking dinner event ticket is not included</strong>.</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, and expo. <strong>Networking event ticket is not included</strong>.</td>
       <td>Available Now</td>
     </tr>
     <tr>
-      <td>Networking dinner Ticket Only</td>
+      <td>Networking Event Ticket Only</td>
       <td class="price">535 NIS</td>
       <td>Additional conference event tickets can be purchased.</td>
       <td>Available Now</td>

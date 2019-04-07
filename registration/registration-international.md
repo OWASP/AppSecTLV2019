@@ -47,23 +47,23 @@ There are several registration options:
     <tr>
       <td>Non-Member Conference</td>
       <td class="price">$650</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking dinner event ticket</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking event ticket</td>
       <td>Available Now</td>
     </tr>
     <tr>
       <td>Member Conference</td>
       <td class="price">$600</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking dinner event ticket</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking event ticket</td>
       <td>Available Now</td>
     </tr>
     <tr>
       <td>Student</td>
       <td class="price">$125</td>
-      <td>Includes conference program for two days, coffee breaks, lunch, and expo. <strong>Networking dinner event ticket is not included</strong>.</td>
+      <td>Includes conference program for two days, coffee breaks, lunch, and expo. <strong>Networking event ticket is not included</strong>.</td>
       <td>Available Now</td>
     </tr>
     <tr>
-      <td>Networking dinner Ticket Only</td>
+      <td>Networking Event Ticket Only</td>
       <td class="price">$125</td>
       <td>Additional conference event tickets can be purchased.</td>
       <td>Available Now</td>

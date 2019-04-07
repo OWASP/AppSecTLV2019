@@ -15,7 +15,11 @@
   - title: Capture The Flag
     url  : program/capture-the-flag
   - title: University Challenge
-    url  : program/university-challenge
+    url  : program/university-Challenge
+  - title: Networking Event
+    url  : program/networking-event
+  - title: Innovation Fair
+    url  : program/innovation-fair
 - title: Sponsor
   items:
   - title: Sponsoring
