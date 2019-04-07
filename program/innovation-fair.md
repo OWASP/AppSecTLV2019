@@ -1,5 +1,5 @@
 ---
-title: Networking Event - Call for Innovation
+title: Innovation Fair - Call for Innovation
 ---
 
 We are excited to announce that in the upcoming Global AppSec Tel Aviv we will be hosting an innovation fair - where startups with **cool and innovative technology** (related to AppSec), will be offered an opportunity to do a short (3-5 minutes, TBD) pitch on their innovation and team and talk to conference attendees about their technology.  
