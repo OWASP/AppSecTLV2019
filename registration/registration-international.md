@@ -9,7 +9,7 @@ title: Registration for international visitors
 
 ## Training
 
-The event offers attendees _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv. Further information regarding the training program and how to book will be available shortly.
+The event offers attendees _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv.
 
 <table>
   <thead>
@@ -65,7 +65,7 @@ There are several registration options:
     <tr>
       <td>Networking Event Ticket Only</td>
       <td class="price">$125</td>
-      <td>Additional conference event tickets can be purchased.</td>
+      <td>Additional networking event tickets can be purchased.</td>
       <td>Available Now</td>
     </tr>
   </tbody>
