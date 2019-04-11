@@ -2,7 +2,7 @@
 title: Call for Papers 
 ---
 
-**The <a href="https://owasp.submittable.com/submit/132865/global-appsec-tel-aviv-2019-call-for-papers" target="_blank">Call for Papers</a> is now open!**
+**The Call for Papers has now closed. Thank you for your excellent submissions!**
 
 
 ## Important dates
