@@ -39,7 +39,7 @@ __Additional events during the conference__
       <td>Welcome Reception</td>
       <td>Tue 5:00 PM</td>
       <td>Tue 7:00:00 PM</td>
-      <td>GB G</td>
+      <td></td>
     </tr>
     <tr>
       <td>Career Fair</td>
