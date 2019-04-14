@@ -15,7 +15,7 @@ Startups selected to take part, will be able to do their short pitch as part of 
 * Company must have clear technology innovation.
 * Product/Service must be related to Software/Application Security.
 
-In order to submit, please send an email to [Ofer Maor](ofer.maor@owasp.org), with the title: Call for Innovation Submission - \<Company Name\>
+In order to submit, **please send an email to [Ofer Maor](mailto:ofer.maor@owasp.org)**, with the title: Call for Innovation Submission - \<Company Name\>
 
 Submission content should include the following data:
 * Inclusion Criteria (**All such data will be kept confidential**)
