@@ -11,7 +11,7 @@ Witness the incredible story of Israel the innovation nation walking through the
 This networking event will provide attendees with Middle-eastern food, fun entertainment, networking and a really relaxed enjoyable time in the heart of Tel Aviv a 30 minutes walk from the conference venue (buses will start from 6:30 PM).
 If you are interested in attending this wonderful event, then register for the conference - tickets to the event are included in the conference package for paying attendees. Also extra tickets can be purchased on line through the registration system.
 
-Additional events during the conference
+__Additional events during the conference__
 
 <table>
   <thead>
