@@ -5,10 +5,10 @@ layout: multisection
 
 <section markdown="1">
 
-**When:** Thursday, May 30, 2019 14:00-17:00  
+**When:** Thursday, May 30, 2019 11:00am - 3:00pm  
 **Venue:** Foyer of the InterContinental David Tel Aviv
 
-The Global AppSec TelAviv 2019 Career Fair is open to any company who is looking to hire new talent. The Career Fair will run for 3 hours during the last day of the session portion of the conference.
+The Global AppSec Tel Aviv 2019 Career Fair is open to any company who is looking to hire new talent. The Career Fair will run for 3 hours during the last day of the session portion of the conference.
 
 Package includes:
 * 1.2m (4') skirted table and 2 chairs 
