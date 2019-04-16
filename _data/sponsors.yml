@@ -12,6 +12,9 @@
   - logo: whitesource.png
     name: White Source
     url:  https://www.whitesourcesoftware.com/
+  - logo: ripstech.png
+    name: RipsTech
+    url:  https://www.ripstech.com/
 - type: Silver
   sponsors:
     - logo: htbridge.png
