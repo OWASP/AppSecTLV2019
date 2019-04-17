@@ -25,4 +25,4 @@ The Women in AppSec program is for anyone who believes that diversity is importa
 
 ### Program
 
-<a id="sched-embed" href="https://globalappsectelaviv2019.sched.com/WIA">View the Global AppSec Tel Aviv 2019 WIA program.</a><script type="text/javascript" src="//globalappsectelaviv2019.sched.com/js/embed.js"></script>
+<a id="sched-embed" href="https://globalappsectelaviv2019.sched.com/overview/type/WIA">View the Global AppSec Tel Aviv 2019 WIA program.</a><script type="text/javascript" src="//globalappsectelaviv2019.sched.com/js/embed.js"></script>
