@@ -12,6 +12,9 @@
   - logo: whitesource.png
     name: White Source
     url:  https://www.whitesourcesoftware.com/
+  - logo: ripstech.png
+    name: RipsTech
+    url:  https://www.ripstech.com/
 - type: Silver
   sponsors:
     - logo: htbridge.png
@@ -19,7 +22,10 @@
       url:  https://www.htbridge.com/
     - logo: cyberark.png
       name: CyberArk
-      url:  https://www.cyberark.com/
+      url:  https://careers.cyberark.com/search/?createNewAlert=false&q=&locationsearch=israel&optionsFacetsDD_customfield1=&optionsFacetsDD_city=&optionsFacetsDD_dept=
+    - logo: snyk.png
+      name: Snyk
+      url:  https://snyk.io
 - type: Badge
   sponsors:
     - logo: F5.svg

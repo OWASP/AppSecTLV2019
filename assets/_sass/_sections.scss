@@ -39,6 +39,7 @@ section {
 		padding: 0.5em 1em;
 		    display: inline-block;
     margin-bottom: 0.5em;
+    text-decoration: none !important;
 	}
 
 	table {
@@ -122,6 +123,9 @@ section {
   			position: relative;
   			left: -0.5em;
 			}
+		}
+		a {
+			text-decoration: underline;
 		}
 	}
 
