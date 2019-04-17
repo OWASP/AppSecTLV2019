@@ -18,7 +18,7 @@ Package includes:
 Rate for companies already sponsoring the conference: $675  
 General rate: $975
 
-Space is limited. Tables are on a first come first server basis. If you are interested, please conact [Kelly Santalucia](mailto:kelly.santalucia@owasp.org).
+Space is limited. Tables are on a first come first server basis. If you are interested, please contact [Kelly Santalucia](mailto:kelly.santalucia@owasp.org).
 
 </section>
 
