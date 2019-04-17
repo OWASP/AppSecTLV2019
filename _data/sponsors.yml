@@ -23,6 +23,9 @@
     - logo: cyberark.png
       name: CyberArk
       url:  https://www.cyberark.com/
+    - logo: snyk.png
+      name: Snyk
+      url:  https://snyk.io
 - type: Badge
   sponsors:
     - logo: F5.svg
