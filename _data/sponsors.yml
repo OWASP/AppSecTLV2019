@@ -15,6 +15,9 @@
   - logo: ripstech.png
     name: RipsTech
     url:  https://www.ripstech.com/
+  - logo: accenture.png
+    name: Accenture
+    url:  https://www.accenture.com/us-en
 - type: Silver
   sponsors:
     - logo: immuniweb.png
@@ -31,3 +34,8 @@
     - logo: F5.svg
       name: F5
       url:  https://www.f5.com/
+- type: Lanyard
+  sponsors:
+    - logo: accenture.png
+      name: Accenture
+      url:  https://www.accenture.com/us-en
