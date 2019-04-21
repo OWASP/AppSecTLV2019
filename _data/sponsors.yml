@@ -29,6 +29,9 @@
     - logo: snyk.png
       name: Snyk
       url:  https://snyk.io
+    - logo: salt.svg
+      name: Salt
+      url:  https://salt.security/
 - type: Badge
   sponsors:
     - logo: F5.svg
