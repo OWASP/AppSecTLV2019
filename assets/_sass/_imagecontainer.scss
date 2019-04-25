@@ -7,8 +7,12 @@
 		background-position: center center;
 		background-repeat: no-repeat;
 		position: relative;
+		background-size: cover;
+		flex-basis: 0;
+		flex-grow: 1;
+		flex-shrink: 1;
 
-		img { visibility: hidden }
+		img { visibility: hidden; }
 
 		span {
 			position: absolute;
@@ -19,6 +23,7 @@
 			width: 100%;
 			padding: 0.25em 0.5em;
 			display: block;
+			text-align: center;
 		}
 	}
 }

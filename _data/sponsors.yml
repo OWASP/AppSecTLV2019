@@ -15,19 +15,30 @@
   - logo: ripstech.png
     name: RipsTech
     url:  https://www.ripstech.com/
+  - logo: accenture.png
+    name: Accenture
+    url:  https://www.accenture.com/us-en
 - type: Silver
   sponsors:
-    - logo: htbridge.png
-      name: High-Tech Bridge
-      url:  https://www.htbridge.com/
+    - logo: immuniweb.png
+      name: ImmuniWeb
+      url:  https://www.immuniweb.com/news/high-tech-bridge-is-now-immuniweb.html
     - logo: cyberark.png
       name: CyberArk
       url:  https://careers.cyberark.com/search/?createNewAlert=false&q=&locationsearch=israel&optionsFacetsDD_customfield1=&optionsFacetsDD_city=&optionsFacetsDD_dept=
     - logo: snyk.png
       name: Snyk
       url:  https://snyk.io
+    - logo: salt.svg
+      name: Salt
+      url:  https://salt.security/
 - type: Badge
   sponsors:
     - logo: F5.svg
       name: F5
       url:  https://www.f5.com/
+- type: Lanyard
+  sponsors:
+    - logo: accenture.png
+      name: Accenture
+      url:  https://www.accenture.com/us-en
