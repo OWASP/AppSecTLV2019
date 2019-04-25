@@ -33,4 +33,4 @@ Submission content should include the following data:
 * Why Should we Choose You – In one paragraph (Max 500 characters)
 * Contact Information for the submission.
 
-**Submission Due Date: April 30th**
+**Extended: Submission Due Date: May 12th**
