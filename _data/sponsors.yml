@@ -18,6 +18,10 @@
   - logo: accenture.png
     name: Accenture
     url:  https://www.accenture.com/us-en
+  - logo: hck_appscan.png
+    name: HCL AppScan
+    url:  https://cloud.appsechcl.com
+
 - type: Silver
   sponsors:
     - logo: immuniweb.png
