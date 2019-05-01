@@ -52,7 +52,7 @@ There are several registration options:
     </tr>
     <tr>
       <td>Member Conference</td>
-      <td class="price">$600</td>
+      <td class="price">$399</td>
       <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking event ticket</td>
       <td>Available Now</td>
     </tr>
