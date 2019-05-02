@@ -52,7 +52,7 @@ There are several registration options:
     </tr>
     <tr>
       <td>Member Conference</td>
-      <td class="price">$600</td>
+      <td class="price"><strike>$600</strike> $399</td>
       <td>Includes conference program for two days, coffee breaks, lunch, expo, and networking event ticket</td>
       <td>Available Now</td>
     </tr>
@@ -71,8 +71,8 @@ There are several registration options:
   </tbody>
 </table>
 
+* **Note: Member sale May 1-15. [Become a member](https://www.owasp.org/index.php/Membership) today!**
 * Note: If you receive a discount code, select the registration category first, then enter the discount code and the fee will be modified based on the code.
-
 * Student Tickets – Students must present a valid student ID and proof of affiliation at an accredited university to pick up the ticket (Limited tickets available).
 * No refunds or replacements for loss of badge
 * Groups discounts are available for 10+ ticket batches
