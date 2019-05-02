@@ -25,8 +25,8 @@
   name: Astha Singhal
   title: Engineering Manager, Application Security, Netflix
   bio: Astha Singhal leads the Application Security team at Netflix that is responsible for securing all the applications in Netflix's cloud infrastructure. Prior to this, she managed product security for the Salesforce AppExchange and other core Salesforce products. She is a security engineer by qualification who is passionate about proactive security and developer enablement. She is also an active member of the Bay Area security community as an organizer of conferences like AppSec USA and   BSidesSF.
-  subject:
-  abstract:
+  subject: The Evolving Community of Appsec
+  abstract: Application Security as a discipline has continuously evolved over the last couple of decades. This is an expected outcome of the growth and maturity of this engineering discipline. At the same time, technology has continued to become more pervasive that has led to increased risk associated with appsec failures. On this learning journey, our community has played an important part since the beginning, OWASP being an important contributor to that. In this talk, we will discuss how that community has evolved until now and how it needs to change in the future to enable us to solve future security problems at scale.
 - image: Amit_Klein.jpg
   name: Amit Klein
   title:
