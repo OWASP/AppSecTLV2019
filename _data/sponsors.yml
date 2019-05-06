@@ -21,7 +21,9 @@
   - logo: hck_appscan.png
     name: HCL AppScan
     url:  https://cloud.appsechcl.com
-
+  - logo: veracode.svg
+    name: Veracode
+    url:  https://www.veracode.com/
 - type: Silver
   sponsors:
     - logo: immuniweb.png
