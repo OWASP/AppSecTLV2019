@@ -48,3 +48,8 @@
     - logo: accenture.png
       name: Accenture
       url:  https://www.accenture.com/us-en
+- type: Community
+  sponsors:
+    - logo: wpsec.png
+      name: WPSec
+      url:  https://wpsec.com/
