@@ -38,6 +38,9 @@
     - logo: salt.svg
       name: Salt
       url:  https://salt.security/
+    - logo: contrast.png
+      name: Contrast Security
+      url:  https://www.contrastsecurity.com/
 - type: Badge
   sponsors:
     - logo: F5.svg
