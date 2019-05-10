@@ -21,7 +21,9 @@
   - logo: hck_appscan.png
     name: HCL AppScan
     url:  https://cloud.appsechcl.com
-
+  - logo: veracode.svg
+    name: Veracode
+    url:  https://www.veracode.com/
 - type: Silver
   sponsors:
     - logo: immuniweb.png
@@ -36,6 +38,9 @@
     - logo: salt.svg
       name: Salt
       url:  https://salt.security/
+    - logo: contrast.png
+      name: Contrast Security
+      url:  https://www.contrastsecurity.com/
 - type: Badge
   sponsors:
     - logo: F5.svg
@@ -46,3 +51,13 @@
     - logo: accenture.png
       name: Accenture
       url:  https://www.accenture.com/us-en
+- type: Community
+  sponsors:
+    - logo: wpsec.png
+      name: WPSec
+      url:  https://wpsec.com/
+- type: Capture the Flag
+  sponsors:
+    - logo: Intel.png
+      name: Intel
+      url:  https://www.intel.com/content/www/us/en/homepage.html

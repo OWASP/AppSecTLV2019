@@ -1,12 +1,12 @@
 ---
-title: Career fair
+title: Career fair (Canceled)
 layout: multisection
 ---
 
 <section markdown="1">
 
-**When:** Thursday, May 30, 2019 11:00am - 3:00pm  
-**Venue:** Foyer of the InterContinental David Tel Aviv
+**When:** The career fair has been canceled
+**Venue:** The career fair has been canceled
 
 The Global AppSec Tel Aviv 2019 Career Fair is open to any company who is looking to hire new talent. The Career Fair will run for 3 hours during the last day of the session portion of the conference.
 
