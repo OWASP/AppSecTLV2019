@@ -27,7 +27,6 @@
   - logo: jpmorganchase.png
     name: JP Morgan Chase
     url:  https://jobs.jpmorganchase.com/ListJobs/ByCountry/IL/
-
 - type: Silver
   sponsors:
     - logo: immuniweb.png
@@ -51,6 +50,12 @@
     - logo: microfocus.png
       name: MicroFocus
       url:  https://www.microfocus.com/en-us/trend/security-risk-governance
+    - logo: expim.png
+      name: Expim
+      url:  https://www.expim.co.il/
+    - logo: perimeterx.png
+      name: PerimeterX
+      url:  https://www.perimeterx.com/am/
 - type: Badge
   sponsors:
     - logo: F5.svg
