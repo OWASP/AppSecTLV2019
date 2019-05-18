@@ -53,6 +53,7 @@
     - logo: NL-Expim2.svg
       name: Expim
       url:  https://www.neuralegion.com/
+      backgroundSize: 140% auto;
     - logo: perimeterx.png
       name: PerimeterX
       url:  https://www.perimeterx.com/am/
