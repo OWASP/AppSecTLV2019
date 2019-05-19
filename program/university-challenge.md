@@ -2,6 +2,8 @@
 title: University Challenge
 ---
 
+**University Challenge has been canceled**
+
 The Global AppSec TLV 2019 University Challenge is being held in InterContinental David Tel Aviv hotel @ Tuesday 28th May 2019.
 
 The University Challenge is a competition among teams comprised of university students that will be held on May 28th (Tuesday) 2019, during the training days of the conference.
@@ -20,4 +22,6 @@ This year the Global AppSec University Challenge will be limited to a maximum of
 
 Any questions, please contact [Adrian Winckles](mailto:Adrian.Winckles@owasp.org)
 
-Please can you submit your team details [here](https://tinyurl.com/yypmckt4)
+<strike>Please can you submit your team details</strike>
+
+**University Challenge has been canceled**
