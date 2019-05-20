@@ -57,6 +57,7 @@ Expected return to David Intercontinental Hotel by 17:00.
 
 
 </section>
+<!--
 <section markdown="1">
 ### Tour C - Nazareth, Tiberias & Sea of Galilee
 
@@ -139,6 +140,7 @@ Return to Eilat for your evening flight back to Tel Aviv.
 **Note:** Passports are required
 
 </section>
+-->
 <section class="inverse" markdown="1">
 
 ## Contact
