@@ -57,6 +57,27 @@ Expected return to David Intercontinental Hotel by 17:00.
 
 
 </section>
+<!--
+<section markdown="1">
+### Tour C - Nazareth, Tiberias & Sea of Galilee
+
+**One Day Sightseeing**  
+*Sunday, June 2, 2019*
+
+Pick-up at 08:00 from the David Intercontinental Hotel.
+Travel to the lower Galilee to Nazareth, the town where Jesus spent his childhood.
+Visit the Church of Annunciation and the Church of St. Joseph.
+Continue, via Kana, to Tiberias, the lovely resort town on the Sea of Galilee.
+Drive along the Kineret lake to visit Capernaum and view the ruins of the ancient synagogue where Jesus taught; Continue to Tabgha, the site of the miracle of Fish and Loaves located at the foot of the Golan Heights; Proceed to Yardenit, the famous baptismal site where the Jordan river flows out of the Sea of Galilee towards the Dead Sea. Expected return to David Intercontinental Hotel by 18:00
+
+**Rate per person: US$90**
+
+<div class="image-container">
+	{% include img.html src="tours/Tour_C_NAZARETH_1.jpg" alt="Nazareth, Photo credit: www.goisrael.com, by Dafna Tal" %}
+	{% include img.html src="tours/Tour_C_NAZARETH_2.jpg" alt="Nazareth, Photo credit: www.goisrael.com" %}
+</div>
+
+</section>
 <section markdown="1">
 
 Above rates (for Tour A, B and C) are based on a minimum of 15 participants.
@@ -119,6 +140,7 @@ Return to Eilat for your evening flight back to Tel Aviv.
 **Note:** Passports are required
 
 </section>
+-->
 <section class="inverse" markdown="1">
 
 ## Contact
