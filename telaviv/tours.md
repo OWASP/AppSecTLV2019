@@ -57,7 +57,6 @@ Expected return to David Intercontinental Hotel by 17:00.
 
 
 </section>
-<!--
 <section markdown="1">
 ### Tour C - Nazareth, Tiberias & Sea of Galilee
 
@@ -101,7 +100,7 @@ Should there be less than 15 participants per tour, alternative arrangements wil
 </section>
 <section markdown="1">
 
-### Tour D - Petra, Jordan
+### Tour D - Petra, Jordan -- SOLD OUT
 
 **Full - One Day Sightseeing (Group tour in Petra)**  
 *Sunday, June 2, 2019*
@@ -140,7 +139,6 @@ Return to Eilat for your evening flight back to Tel Aviv.
 **Note:** Passports are required
 
 </section>
--->
 <section class="inverse" markdown="1">
 
 ## Contact
