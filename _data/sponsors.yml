@@ -20,10 +20,13 @@
     url:  https://www.accenture.com/us-en
   - logo: hck_appscan.png
     name: HCL AppScan
-    url:  https://cloud.appsechcl.com
+    url:  https://www.hcltech.com/products-and-platforms/appscan-standard
   - logo: veracode.svg
     name: Veracode
     url:  https://www.veracode.com/
+  - logo: jpmorganchase.png
+    name: JP Morgan Chase
+    url:  https://jobs.jpmorganchase.com/ListJobs/ByCountry/IL/
 - type: Silver
   sponsors:
     - logo: immuniweb.png
@@ -41,6 +44,19 @@
     - logo: contrast.png
       name: Contrast Security
       url:  https://www.contrastsecurity.com/
+    - logo: checkpoint.png
+      name: Checkpoint
+      url:  https://careers.checkpoint.com/
+    - logo: microfocus.png
+      name: MicroFocus
+      url:  https://www.microfocus.com/en-us/trend/security-risk-governance
+    - logo: NL-Expim2.svg
+      name: Expim
+      url:  https://www.neuralegion.com/
+      backgroundSize: 140% auto;
+    - logo: perimeterx.png
+      name: PerimeterX
+      url:  https://www.perimeterx.com/am/
 - type: Badge
   sponsors:
     - logo: F5.svg
