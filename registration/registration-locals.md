@@ -7,7 +7,7 @@ title: Registration For Locals
 *If you are an international visitor, please use the
 [registration page for international visitors](/registration/registration-international).*
 
-## Training
+## Training - Registration is now closed
 
 The event offers attendees _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 26-28 May, 2019 in Tel Aviv.
 
@@ -27,7 +27,7 @@ The event offers attendees _three, two or one day_ intense training courses by l
 	</tbody>
 </table>
 
-## Conference Program
+## Conference Program - Continue online until Monday and than on site
 
 Following the training program, Global Appsec Tel Aviv 2019 will provide attendees with exceptional conference keynotes and seminars led by industry security experts and leaders.
 Don’t miss this opportunity to join your fellow colleagues to learn, network and enjoy the many unique experiences that Global Appsec Tel Aviv 2019 has to offer.
