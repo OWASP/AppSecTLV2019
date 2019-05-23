@@ -56,7 +56,7 @@
       backgroundSize: 140% auto;
     - logo: perimeterx.png
       name: PerimeterX
-      url:  https://www.perimeterx.com/am/
+      url:  https://www.perimeterx.com/
 - type: Badge
   sponsors:
     - logo: F5.svg
