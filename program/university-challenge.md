@@ -2,7 +2,8 @@
 title: University Challenge
 ---
 
-**University Challenge has been canceled**
+**University Challenge will not be held this year.  
+If you are interested, please check out our [Capture the Flag](capture-the-flag) competition instead!**
 
 The Global AppSec TLV 2019 University Challenge is being held in InterContinental David Tel Aviv hotel @ Tuesday 28th May 2019.
 
@@ -24,4 +25,4 @@ Any questions, please contact [Adrian Winckles](mailto:Adrian.Winckles@owasp.org
 
 <strike>Please can you submit your team details</strike>
 
-**University Challenge has been canceled**
+**University Challenge has been cancelled**
