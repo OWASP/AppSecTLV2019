@@ -28,7 +28,32 @@ The event offers attendees _three, two or one day_ intense training courses by l
 </table>
 
 
-## Conference Program - Continue online until Monday and than on site
+## Conference Program - ONLINE REGISTRATION IS NOW CLOSED
+
+Onsite registration will be available at the following times at the David Intercontinental Hotel (Convention center foyer):
+
+<table>
+  <thead>
+    <tr><th>Day</th><th>Date</th><th>Time</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tuesday</td>
+      <td>28 May, 2019</td>
+      <td>08:00 – 18:00</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>29 May, 2019</td>
+      <td>08:00 – 17:00</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>30 May, 2019</td>
+      <td>08:00 – 16:00</td>
+    </tr>
+  </tbody>
+</table>
 
 Following the training program, Global Appsec Tel Aviv 2019 will provide attendees with exceptional conference keynotes and seminars led by industry security experts and leaders.
 Don’t miss this opportunity to join your fellow colleagues to learn, network and enjoy the many unique experiences that Global Appsec Tel Aviv 2019 has to offer.
