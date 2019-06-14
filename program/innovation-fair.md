@@ -4,9 +4,8 @@ title: Innovation Fair
 
 The winner of the innovation fair : [**Salt Security**](https://salt.security/) won the fair!
 
-<div class="image-container">
-	{% include img.html src="innovation/Salt_Logo.png" alt="Salt Security, Photo credit: https://salt.security/" %}
-</div>
+ <a style="background-image: url(/assets/images/sponsors/salt.svg);" title="Salt Security" href="https://salt.security/"></a>
+
 
 This year in Global AppSec Tel Aviv we will run, for the first time, an innovation fair for startups in the area of Application and Software Security. This fair is an opportunity for early stage startups (younger than 3 years, with less than 1M$ revenue and 10M$ funding) to pitch their innovation to the OWASP conference attendees. We believe this is a great opportunity for practitioners of AppSec to learn about new and upcoming technologies, and a great opportunity for the startups to get some initial exposure and market feedback.
 We believe Global AppSec Tel Aviv is the perfect OWASP conference to kick start this type of event and tradition, thanks to the marvelous ecosystem of startups and innovation in Israel, alongside a long lasting focus of AppSec companies who started here, bringing to life some of the first and most significant solutions in areas such as DAST, SAST, IAST, WAF and more....
