@@ -6,3 +6,5 @@ tmp/
 
 assets/css/.style.scss.swp
 /.project
+/Gemfile
+/Gemfile.lock
